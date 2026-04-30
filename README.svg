@@ -2,101 +2,90 @@
   <title>Daily Learning Log — TIL README</title>
   <desc>A styled SVG version of the TIL repository README</desc>
 
-  <rect x="40" y="30" width="600" height="960" rx="8" fill="none" stroke="#cccccc" stroke-width="0.5"/>
+  <rect x="40" y="30" width="600" height="960" rx="8" fill="none" stroke="#888888" stroke-width="1"/>
 
-  <!-- Title -->
-  <text x="340" y="72" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="500" fill="#111111">Daily Learning Log — TIL (Today I Learned)</text>
-  <line x1="40" y1="84" x2="640" y2="84" stroke="#cccccc" stroke-width="0.5"/>
+  <text x="340" y="72" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="600" fill="#ffffff">Daily Learning Log — TIL (Today I Learned)</text>
+  <line x1="40" y1="84" x2="640" y2="84" stroke="#888888" stroke-width="0.5"/>
 
-  <!-- Tagline -->
-  <text x="340" y="108" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#555555">A personal knowledge repository documenting programming concepts, tools, best practices,</text>
-  <text x="340" y="124" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#555555">problem-solving approaches, and technical insights — updated daily.</text>
+  <text x="340" y="108" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#cccccc">A personal knowledge repository documenting programming concepts, tools, best practices,</text>
+  <text x="340" y="124" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#cccccc">problem-solving approaches, and technical insights — updated daily.</text>
 
-  <line x1="40" y1="138" x2="640" y2="138" stroke="#cccccc" stroke-width="0.5"/>
+  <line x1="40" y1="138" x2="640" y2="138" stroke="#888888" stroke-width="0.5"/>
 
-  <!-- Purpose -->
-  <text x="64" y="162" font-family="sans-serif" font-size="14" font-weight="500" fill="#111111">Purpose</text>
-  <text x="64" y="182" font-family="sans-serif" font-size="12" fill="#555555">This repository serves as my continuous learning journal. Every day, I commit a new entry</text>
-  <text x="64" y="198" font-family="sans-serif" font-size="12" fill="#555555">reflecting on what I studied, practiced, or discovered. The goal is to build a consistent</text>
-  <text x="64" y="214" font-family="sans-serif" font-size="12" fill="#555555">learning habit, maintain a searchable personal knowledge base, and grow as a developer —</text>
-  <text x="64" y="230" font-family="sans-serif" font-size="12" fill="#555555">one day at a time.</text>
+  <text x="64" y="162" font-family="sans-serif" font-size="14" font-weight="600" fill="#ffffff">Purpose</text>
+  <text x="64" y="182" font-family="sans-serif" font-size="12" fill="#cccccc">This repository serves as my continuous learning journal. Every day, I commit a new entry</text>
+  <text x="64" y="198" font-family="sans-serif" font-size="12" fill="#cccccc">reflecting on what I studied, practiced, or discovered. The goal is to build a consistent</text>
+  <text x="64" y="214" font-family="sans-serif" font-size="12" fill="#cccccc">learning habit, maintain a searchable personal knowledge base, and grow as a developer —</text>
+  <text x="64" y="230" font-family="sans-serif" font-size="12" fill="#cccccc">one day at a time.</text>
 
-  <line x1="40" y1="248" x2="640" y2="248" stroke="#cccccc" stroke-width="0.5"/>
+  <line x1="40" y1="248" x2="640" y2="248" stroke="#888888" stroke-width="0.5"/>
 
-  <!-- Structure -->
-  <text x="64" y="272" font-family="sans-serif" font-size="14" font-weight="500" fill="#111111">Structure</text>
-  <text x="64" y="292" font-family="sans-serif" font-size="12" fill="#555555">Entries are organized by year and month for easy navigation.</text>
+  <text x="64" y="272" font-family="sans-serif" font-size="14" font-weight="600" fill="#ffffff">Structure</text>
+  <text x="64" y="292" font-family="sans-serif" font-size="12" fill="#cccccc">Entries are organized by year and month for easy navigation.</text>
 
-  <!-- Directory tree box -->
-  <rect x="64" y="304" width="552" height="88" rx="4" fill="#f6f8fa" stroke="#cccccc" stroke-width="0.5"/>
-  <text x="84" y="322" font-family="monospace" font-size="12" fill="#111111">daily-learnings/</text>
-  <text x="84" y="340" font-family="monospace" font-size="12" fill="#555555">├── README.md</text>
-  <text x="84" y="356" font-family="monospace" font-size="12" fill="#555555">├── 2026/</text>
-  <text x="84" y="372" font-family="monospace" font-size="12" fill="#555555">│   └── 04-April/   ├── 2026-04-30.md   ├── 2026-04-29.md</text>
+  <rect x="64" y="304" width="552" height="88" rx="4" fill="#1e1e1e" stroke="#888888" stroke-width="0.5"/>
+  <text x="84" y="322" font-family="monospace" font-size="12" fill="#ffffff">daily-learnings/</text>
+  <text x="84" y="340" font-family="monospace" font-size="12" fill="#aaaaaa">├── README.md</text>
+  <text x="84" y="356" font-family="monospace" font-size="12" fill="#aaaaaa">├── 2026/</text>
+  <text x="84" y="372" font-family="monospace" font-size="12" fill="#aaaaaa">│   └── 04-April/   ├── 2026-04-30.md   ├── 2026-04-29.md</text>
 
-  <!-- Daily format label -->
-  <text x="64" y="412" font-family="sans-serif" font-size="12" fill="#555555">Each daily file follows a consistent format:</text>
+  <text x="64" y="412" font-family="sans-serif" font-size="12" fill="#cccccc">Each daily file follows a consistent format:</text>
 
-  <!-- 4 format cards -->
-  <rect x="64" y="424" width="124" height="52" rx="4" fill="#f6f8fa" stroke="#cccccc" stroke-width="0.5"/>
-  <text x="126" y="446" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="500" fill="#111111">What I Learned</text>
-  <text x="126" y="462" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#555555">Topics studied</text>
+  <rect x="64" y="424" width="124" height="52" rx="4" fill="#1e1e1e" stroke="#888888" stroke-width="0.5"/>
+  <text x="126" y="446" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="600" fill="#ffffff">What I Learned</text>
+  <text x="126" y="462" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#aaaaaa">Topics studied</text>
 
-  <rect x="204" y="424" width="124" height="52" rx="4" fill="#f6f8fa" stroke="#cccccc" stroke-width="0.5"/>
-  <text x="266" y="446" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="500" fill="#111111">What I Built</text>
-  <text x="266" y="462" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#555555">Hands-on work</text>
+  <rect x="204" y="424" width="124" height="52" rx="4" fill="#1e1e1e" stroke="#888888" stroke-width="0.5"/>
+  <text x="266" y="446" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="600" fill="#ffffff">What I Built</text>
+  <text x="266" y="462" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#aaaaaa">Hands-on work</text>
 
-  <rect x="344" y="424" width="124" height="52" rx="4" fill="#f6f8fa" stroke="#cccccc" stroke-width="0.5"/>
-  <text x="406" y="446" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="500" fill="#111111">Open Questions</text>
-  <text x="406" y="462" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#555555">Areas to explore</text>
+  <rect x="344" y="424" width="124" height="52" rx="4" fill="#1e1e1e" stroke="#888888" stroke-width="0.5"/>
+  <text x="406" y="446" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="600" fill="#ffffff">Open Questions</text>
+  <text x="406" y="462" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#aaaaaa">Areas to explore</text>
 
-  <rect x="484" y="424" width="132" height="52" rx="4" fill="#f6f8fa" stroke="#cccccc" stroke-width="0.5"/>
-  <text x="550" y="446" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="500" fill="#111111">Resources Used</text>
-  <text x="550" y="462" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#555555">Docs, articles</text>
+  <rect x="484" y="424" width="132" height="52" rx="4" fill="#1e1e1e" stroke="#888888" stroke-width="0.5"/>
+  <text x="550" y="446" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="600" fill="#ffffff">Resources Used</text>
+  <text x="550" y="462" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#aaaaaa">Docs, articles</text>
 
-  <line x1="40" y1="494" x2="640" y2="494" stroke="#cccccc" stroke-width="0.5"/>
+  <line x1="40" y1="494" x2="640" y2="494" stroke="#888888" stroke-width="0.5"/>
 
-  <!-- Why This Exists -->
-  <text x="64" y="518" font-family="sans-serif" font-size="14" font-weight="500" fill="#111111">Why This Exists</text>
-  <text x="64" y="538" font-family="sans-serif" font-size="12" fill="#555555">Learning in public keeps me accountable. Writing down what I learn reinforces my understanding,</text>
-  <text x="64" y="554" font-family="sans-serif" font-size="12" fill="#555555">and having it version-controlled means I can track my growth over time. This repository is proof</text>
-  <text x="64" y="570" font-family="sans-serif" font-size="12" fill="#555555">that consistency compounds — small daily efforts lead to significant long-term progress.</text>
+  <text x="64" y="518" font-family="sans-serif" font-size="14" font-weight="600" fill="#ffffff">Why This Exists</text>
+  <text x="64" y="538" font-family="sans-serif" font-size="12" fill="#cccccc">Learning in public keeps me accountable. Writing down what I learn reinforces my understanding,</text>
+  <text x="64" y="554" font-family="sans-serif" font-size="12" fill="#cccccc">and having it version-controlled means I can track my growth over time. This repository is proof</text>
+  <text x="64" y="570" font-family="sans-serif" font-size="12" fill="#cccccc">that consistency compounds — small daily efforts lead to significant long-term progress.</text>
 
-  <line x1="40" y1="588" x2="640" y2="588" stroke="#cccccc" stroke-width="0.5"/>
+  <line x1="40" y1="588" x2="640" y2="588" stroke="#888888" stroke-width="0.5"/>
 
-  <!-- Topics Covered -->
-  <text x="64" y="612" font-family="sans-serif" font-size="14" font-weight="500" fill="#111111">Topics Covered</text>
-  <text x="64" y="632" font-family="sans-serif" font-size="12" fill="#555555">Topics vary based on what I am currently studying, but generally include:</text>
+  <text x="64" y="612" font-family="sans-serif" font-size="14" font-weight="600" fill="#ffffff">Topics Covered</text>
+  <text x="64" y="632" font-family="sans-serif" font-size="12" fill="#cccccc">Topics vary based on what I am currently studying, but generally include:</text>
 
-  <circle cx="76" cy="652" r="3" fill="#555555"/>
-  <text x="88" y="656" font-family="sans-serif" font-size="12" fill="#555555">Programming languages and frameworks</text>
+  <circle cx="76" cy="652" r="3" fill="#aaaaaa"/>
+  <text x="88" y="656" font-family="sans-serif" font-size="12" fill="#cccccc">Programming languages and frameworks</text>
 
-  <circle cx="76" cy="672" r="3" fill="#555555"/>
-  <text x="88" y="676" font-family="sans-serif" font-size="12" fill="#555555">Data structures and algorithms</text>
+  <circle cx="76" cy="672" r="3" fill="#aaaaaa"/>
+  <text x="88" y="676" font-family="sans-serif" font-size="12" fill="#cccccc">Data structures and algorithms</text>
 
-  <circle cx="76" cy="692" r="3" fill="#555555"/>
-  <text x="88" y="696" font-family="sans-serif" font-size="12" fill="#555555">Web development (frontend and backend)</text>
+  <circle cx="76" cy="692" r="3" fill="#aaaaaa"/>
+  <text x="88" y="696" font-family="sans-serif" font-size="12" fill="#cccccc">Web development (frontend and backend)</text>
 
-  <circle cx="76" cy="712" r="3" fill="#555555"/>
-  <text x="88" y="716" font-family="sans-serif" font-size="12" fill="#555555">Tools, DevOps, and workflows</text>
+  <circle cx="76" cy="712" r="3" fill="#aaaaaa"/>
+  <text x="88" y="716" font-family="sans-serif" font-size="12" fill="#cccccc">Tools, DevOps, and workflows</text>
 
-  <circle cx="76" cy="732" r="3" fill="#555555"/>
-  <text x="88" y="736" font-family="sans-serif" font-size="12" fill="#555555">Computer science fundamentals</text>
+  <circle cx="76" cy="732" r="3" fill="#aaaaaa"/>
+  <text x="88" y="736" font-family="sans-serif" font-size="12" fill="#cccccc">Computer science fundamentals</text>
 
-  <circle cx="76" cy="752" r="3" fill="#555555"/>
-  <text x="88" y="756" font-family="sans-serif" font-size="12" fill="#555555">Projects and problem-solving</text>
+  <circle cx="76" cy="752" r="3" fill="#aaaaaa"/>
+  <text x="88" y="756" font-family="sans-serif" font-size="12" fill="#cccccc">Projects and problem-solving</text>
 
-  <line x1="40" y1="774" x2="640" y2="774" stroke="#cccccc" stroke-width="0.5"/>
+  <line x1="40" y1="774" x2="640" y2="774" stroke="#888888" stroke-width="0.5"/>
 
-  <!-- Consistency Goal -->
-  <text x="64" y="798" font-family="sans-serif" font-size="14" font-weight="500" fill="#111111">Consistency Goal</text>
-  <rect x="64" y="812" width="552" height="40" rx="4" fill="#f6f8fa" stroke="#cccccc" stroke-width="0.5"/>
-  <text x="340" y="837" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="500" fill="#111111">One entry. Every day. No exceptions.</text>
+  <text x="64" y="798" font-family="sans-serif" font-size="14" font-weight="600" fill="#ffffff">Consistency Goal</text>
+  <rect x="64" y="812" width="552" height="40" rx="4" fill="#1e1e1e" stroke="#888888" stroke-width="0.5"/>
+  <text x="340" y="837" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="600" fill="#ffffff">One entry. Every day. No exceptions.</text>
 
-  <line x1="40" y1="870" x2="640" y2="870" stroke="#cccccc" stroke-width="0.5"/>
+  <line x1="40" y1="870" x2="640" y2="870" stroke="#888888" stroke-width="0.5"/>
 
-  <!-- Closing note -->
-  <text x="340" y="900" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#555555">If you are on a similar learning journey, feel free to fork this structure and start your own.</text>
-  <text x="340" y="918" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#555555">The best investment you can make is in yourself.</text>
+  <text x="340" y="900" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#cccccc">If you are on a similar learning journey, feel free to fork this structure and start your own.</text>
+  <text x="340" y="918" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#cccccc">The best investment you can make is in yourself.</text>
 
 </svg>
