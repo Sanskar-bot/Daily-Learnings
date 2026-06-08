@@ -1,0 +1,1349 @@
+{
+  "generatedAt": "2026-06-08T18:29:13.511Z",
+  "totalEntries": 35,
+  "entries": [
+    {
+      "id": "day-001",
+      "date": "2026-04-30",
+      "title": "1. Generative AI Basics (Salesforce Trailhead)",
+      "summary": "1. Generative AI Basics (Salesforce Trailhead) 2. Agentforce 360 Platform Basics (Salesforce Trailhead)",
+      "concepts": [
+        "Completed two Salesforce Trailhead badge modules end to end",
+        "Navigated the Salesforce platform interface hands-on"
+      ],
+      "technologies": [
+        "Salesforce",
+        "Salesforce Trailhead"
+      ],
+      "topics": [
+        "1. Generative AI Basics (Salesforce Trailhead)",
+        "2. Agentforce 360 Platform Basics (Salesforce Trailhead)"
+      ],
+      "tags": [
+        "AI/ML",
+        "Salesforce",
+        "Salesforce Trailhead"
+      ],
+      "difficulty": "Beginner",
+      "links": [],
+      "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/April-04/30-04-2026.md"
+    },
+    {
+      "id": "day-002",
+      "date": "2026-05-01",
+      "title": "Data Modeling — Salesforce Trailhead (Completed)",
+      "summary": "Data Modeling — Salesforce Trailhead (Completed) Module 1: Optimize Customer Data with Standard and Custom Objects Module 2: Create Object Relationships Module 3: Work with Schema Builder",
+      "concepts": [
+        "Completed all three modules of the Data Modeling badge end to end",
+        "Built and visualized object relationships using Schema Builder",
+        "Explored real-world data structuring scenarios in Salesforce"
+      ],
+      "technologies": [
+        "Salesforce",
+        "Salesforce Trailhead"
+      ],
+      "topics": [
+        "Data Modeling — Salesforce Trailhead (Completed)",
+        "Module 1: Optimize Customer Data with Standard and Custom Objects",
+        "Module 2: Create Object Relationships",
+        "Module 3: Work with Schema Builder"
+      ],
+      "tags": [
+        "Data Modeling",
+        "Salesforce",
+        "Salesforce Trailhead"
+      ],
+      "difficulty": "Beginner",
+      "links": [],
+      "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/May-05/01-05-2026.md"
+    },
+    {
+      "id": "day-003",
+      "date": "2026-05-02",
+      "title": "Exam Preparation (May 02 – May 07)",
+      "summary": "Exam Preparation (May 02 – May 07) > No new technical modules or courses were completed during this period. > Full focus was on academic exam preparation. Cyber Peace Foundation — Interview Preparation (May 08 – May 09)",
+      "concepts": [
+        "Dedicated May 02–07 to exam revision and preparation",
+        "Reviewed notes, solved past papers, and reinforced weak areas",
+        "Prepared for Cyber Peace Foundation interview on May 08–09",
+        "Attended the Cyber Peace Foundation interview on May 09, 2026",
+        "No side projects or Trailhead modules were pursued during this window"
+      ],
+      "technologies": [
+        "Salesforce",
+        "Salesforce Trailhead"
+      ],
+      "topics": [
+        "Exam Preparation (May 02 – May 07)",
+        "Cyber Peace Foundation — Interview Preparation (May 08 – May 09)"
+      ],
+      "tags": [
+        "Cybersecurity",
+        "Salesforce",
+        "Salesforce Trailhead"
+      ],
+      "difficulty": "Beginner",
+      "links": [],
+      "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/May-05/02-09-05-2026.md"
+    },
+    {
+      "id": "day-004",
+      "date": "2026-05-08",
+      "title": "Interview Preparation — Cyber Peace Foundation",
+      "summary": "Interview Preparation — Cyber Peace Foundation Spent the day revising and consolidating topics from my learning journey and CV ahead of the Cyber Peace Foundation interview scheduled for May 09. Cybersecurity Core Concepts (Revised)",
+      "concepts": [
+        "Full self-review session covering all major CV projects",
+        "Practiced explaining complex technical concepts (MITM, E2E, PKI) in simple terms",
+        "Mentally walked through live demo scenarios for my MITM project"
+      ],
+      "technologies": [
+        "HTTP/HTTPS",
+        "REST API",
+        "Salesforce",
+        "Salesforce Trailhead",
+        "Spring Boot"
+      ],
+      "topics": [
+        "Interview Preparation — Cyber Peace Foundation",
+        "Cybersecurity Core Concepts (Revised)",
+        "Projects on CV (Revised)",
+        "Soft Skills & HR Prep"
+      ],
+      "tags": [
+        "Cybersecurity",
+        "Encryption",
+        "HTTP/HTTPS",
+        "Networking",
+        "Open Source",
+        "REST API",
+        "Salesforce",
+        "Salesforce Trailhead",
+        "Security",
+        "Spring Boot"
+      ],
+      "difficulty": "Intermediate",
+      "links": [],
+      "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/May-05/08-05-2026.md"
+    },
+    {
+      "id": "day-005",
+      "date": "2026-05-09",
+      "title": "Cyber Peace Foundation — Interview Day 🎯",
+      "summary": "Daily learning entry.",
+      "concepts": [
+        "Articulated complex cybersecurity concepts clearly under interview pressure",
+        "Walked through my MITM simulation project architecture live",
+        "Received and understood the assigned task — MITM attack demonstration on E2E encryption"
+      ],
+      "technologies": [
+        "Salesforce Trailhead"
+      ],
+      "topics": [],
+      "tags": [
+        "Cybersecurity",
+        "Encryption",
+        "Salesforce",
+        "Salesforce Trailhead",
+        "Security"
+      ],
+      "difficulty": "Beginner",
+      "links": [],
+      "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/May-05/09-05-2026.md"
+    },
+    {
+      "id": "day-006",
+      "date": "2026-05-10",
+      "title": "E2E Encryption Attack Lab — Act 1: Plaintext Interception",
+      "summary": "E2E Encryption Attack Lab — Act 1: Plaintext Interception > Project Context: Building a 3-act MITM demonstration for the CyberPeace Foundation assignment. > Act 1 establishes the baseline — showing how unencrypted TCP traffic is trivially intercepted.",
+      "concepts": [
+        "Set up the full project scaffolding from scratch",
+        "Built and tested `crypto_utils.py` — all three cryptographic primitives (RSA, AES-GCM, SHA-256 fingerprint)",
+        "Wrote `server.py` — functional TCP relay accepting two clients",
+        "Wrote `alice.py` and `bob.py` in plain mode — end-to-end chat working over the relay",
+        "Configured Burp Suite upstream proxy and verified traffic routing",
+        "Captured Wireshark evidence screenshot — plaintext clearly visible in packet capture"
+      ],
+      "technologies": [
+        "AES-256-GCM",
+        "HTTP/HTTPS",
+        "Python",
+        "Salesforce Trailhead"
+      ],
+      "topics": [
+        "E2E Encryption Attack Lab — Act 1: Plaintext Interception",
+        "Project Structure & Setup",
+        "— Cryptographic Helpers",
+        "— TCP Relay",
+        "&  — Plain Mode",
+        "Burp Suite — Proxy Configuration",
+        "Wireshark — Loopback Traffic Capture",
+        "Challenge Solved — Burp Upstream Proxy Not Forwarding"
+      ],
+      "tags": [
+        "AES-256-GCM",
+        "Authentication",
+        "Cloud",
+        "Cryptography",
+        "Encryption",
+        "HTTP/HTTPS",
+        "Networking",
+        "Performance",
+        "Python",
+        "Salesforce",
+        "Salesforce Trailhead"
+      ],
+      "difficulty": "Intermediate",
+      "links": [],
+      "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/May-05/10-05-2026.md"
+    },
+    {
+      "id": "day-007",
+      "date": "2026-05-11",
+      "title": "E2E Encryption Attack Lab — Act 2 Base: RSA Key Exchange + AES-GCM Encryption",
+      "summary": "E2E Encryption Attack Lab — Act 2 Base: RSA Key Exchange + AES-GCM Encryption > Project Context: Day 2 of the MITM Lab. Today's goal was to add real encryption to Alice and Bob > so that Act 2 can demonstrate that encryption *alone* (without key verification) is not enough.",
+      "concepts": [
+        "Added `encrypted` mode flag to `alice.py` — RSA keypair gen, key exchange, AES session setup",
+        "Added `encrypted` mode flag to `bob.py` — receives and processes key exchange, decrypts session key",
+        "Tested direct encrypted chat (bypassing MITM) — confirmed Wireshark shows ciphertext",
+        "Verified full key exchange handshake works end-to-end over the relay server",
+        "Debugged and resolved the race condition using a typed blocking receive loop"
+      ],
+      "technologies": [
+        "AES-256-GCM",
+        "Python",
+        "Salesforce Trailhead"
+      ],
+      "topics": [
+        "E2E Encryption Attack Lab — Act 2 Base: RSA Key Exchange + AES-GCM Encryption",
+        "RSA Key Exchange Protocol",
+        "AES-256-GCM Session Encryption",
+        "Message Protocol Design",
+        "Wireshark — Ciphertext Verification",
+        "Challenge Solved — Race Condition in Key Exchange"
+      ],
+      "tags": [
+        "AES-256-GCM",
+        "Authentication",
+        "Cryptography",
+        "Encryption",
+        "Networking",
+        "Python",
+        "Salesforce",
+        "Salesforce Trailhead",
+        "Security"
+      ],
+      "difficulty": "Intermediate",
+      "links": [],
+      "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/May-05/11-05-2026.md"
+    },
+    {
+      "id": "day-008",
+      "date": "2026-05-12",
+      "title": "E2E Encryption Attack Lab — Act 2 Complete: MITM Key Swap",
+      "summary": "E2E Encryption Attack Lab — Act 2 Complete: MITM Key Swap > Project Context: Day 3. Today's goal was to build the actual attacker — a MITM proxy that > silently intercepts and decrypts the \"secure\" E2E conversation by swapping RSA public keys.",
+      "concepts": [
+        "Built `mitm.py` — full TCP MITM proxy with RSA key swap and AES-GCM session interception",
+        "Wrote `mitm_addon.py` — mitmproxy professional tool integration",
+        "Tested the complete Act 2 flow: Alice → MITM → Bob, with MITM reading all messages",
+        "Captured the \"money shot\" screenshot: Alice's plaintext message visible in MITM terminal while Bob receives what appears to be a normal encrypted chat",
+        "Debugged and resolved the thread synchronization problem using `threading.Event`"
+      ],
+      "technologies": [
+        "AES-256-GCM",
+        "Python",
+        "Salesforce Trailhead"
+      ],
+      "topics": [
+        "E2E Encryption Attack Lab — Act 2 Complete: MITM Key Swap",
+        "How the MITM Key Swap Attack Works",
+        "— TCP Proxy with Key Swap",
+        "— mitmproxy Integration",
+        "Challenge Solved — Cross-Thread State Sharing (Session Pairing)"
+      ],
+      "tags": [
+        "AES-256-GCM",
+        "Encryption",
+        "Networking",
+        "Python",
+        "Salesforce",
+        "Salesforce Trailhead",
+        "Security"
+      ],
+      "difficulty": "Intermediate",
+      "links": [],
+      "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/May-05/12-05-2026.md"
+    },
+    {
+      "id": "day-009",
+      "date": "2026-05-13",
+      "title": "E2E Encryption Attack Lab — Act 3: Fingerprint Verification Defeats MITM",
+      "summary": "E2E Encryption Attack Lab — Act 3: Fingerprint Verification Defeats MITM > Project Context: Day 4. Today's goal was to implement the *defense* — showing how out-of-band > key fingerprint verification completely defeats the MITM key swap attack. This mirrors exactly",
+      "concepts": [
+        "Added `verified` mode to `alice.py` and `bob.py` with dual-fingerprint display",
+        "Demonstrated Act 3 with MITM running: fingerprints mismatch → session correctly aborts",
+        "Demonstrated Act 3 without MITM (`--direct` flag, port 9000): fingerprints match → secure chat proceeds",
+        "Understood and applied the exact mechanism that production E2E apps use to solve the key verification problem"
+      ],
+      "technologies": [
+        "Python",
+        "Salesforce Trailhead"
+      ],
+      "topics": [
+        "E2E Encryption Attack Lab — Act 3: Fingerprint Verification Defeats MITM",
+        "Key Fingerprint Verification — The Concept",
+        "Mode Implementation",
+        "Real-World Parallels Learned",
+        "Challenge Solved — Displaying Wrong Fingerprint"
+      ],
+      "tags": [
+        "Cryptography",
+        "Encryption",
+        "Python",
+        "Salesforce",
+        "Salesforce Trailhead"
+      ],
+      "difficulty": "Intermediate",
+      "links": [],
+      "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/May-05/13-05-2026.md"
+    },
+    {
+      "id": "day-010",
+      "date": "2026-05-14",
+      "title": "E2E Encryption Attack Lab — Day 5: Live Attacker Dashboard",
+      "summary": "E2E Encryption Attack Lab — Day 5: Live Attacker Dashboard > Project Context: Day 5. The core attack demo is complete. Today's goal was to build a > professional live attacker dashboard — a real-time web UI that visualizes what the MITM",
+      "concepts": [
+        "Extended `mitm.py` with a Flask REST API on port 7000",
+        "Built `dashboard/index.html` — dark-themed, auto-polling, color-coded attacker dashboard",
+        "Ran full Act 2 demo with dashboard open — confirmed real-time event feed updates correctly",
+        "Captured dashboard screenshot showing live decrypted message interception"
+      ],
+      "technologies": [
+        "Python",
+        "REST API",
+        "Salesforce Trailhead"
+      ],
+      "topics": [
+        "E2E Encryption Attack Lab — Day 5: Live Attacker Dashboard",
+        "Flask as a Background API Server",
+        "— Real-Time Attacker UI",
+        "Threading Model — Flask + TCP Proxy Coexistence",
+        "Challenge Solved — Flask Blocking the TCP Proxy",
+        "UI/UX Concepts Applied"
+      ],
+      "tags": [
+        "Encryption",
+        "Networking",
+        "Python",
+        "REST API",
+        "Salesforce",
+        "Salesforce Trailhead",
+        "Security"
+      ],
+      "difficulty": "Intermediate",
+      "links": [],
+      "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/May-05/14-05-2026.md"
+    },
+    {
+      "id": "day-011",
+      "date": "2026-05-15",
+      "title": "E2E Encryption Attack Lab — Day 6: Technical Report Writing",
+      "summary": "E2E Encryption Attack Lab — Day 6: Technical Report Writing > Project Context: Day 6. All code is complete. Today was dedicated to writing the full > technical report — translating the 5 days of implementation into a structured, academic-quality",
+      "concepts": [
+        "Wrote a full structured technical report covering all 3 acts",
+        "Researched and documented the DigiNotar breach, WhatsApp/Signal safety numbers, and SSH host key verification",
+        "Applied STRIDE threat modeling to the system for the first time",
+        "Connected academic theory (Kerckhoffs, CIA triad, TOFU) to practical implementation"
+      ],
+      "technologies": [
+        "AES-256-GCM",
+        "HTTP/HTTPS",
+        "Salesforce Trailhead"
+      ],
+      "topics": [
+        "E2E Encryption Attack Lab — Day 6: Technical Report Writing",
+        "Security Concepts Formalized for Report",
+        "Real-World Attack Mappings Researched"
+      ],
+      "tags": [
+        "AES-256-GCM",
+        "Authentication",
+        "CIA Triad",
+        "Encryption",
+        "HTTP/HTTPS",
+        "Salesforce",
+        "Salesforce Trailhead",
+        "Security"
+      ],
+      "difficulty": "Intermediate",
+      "links": [],
+      "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/May-05/15-05-2026.md"
+    },
+    {
+      "id": "day-012",
+      "date": "2026-05-16",
+      "title": "E2E Encryption Attack Lab — Day 7: Final Run, Cleanup & Submission",
+      "summary": "E2E Encryption Attack Lab — Day 7: Final Run, Cleanup & Submission > Project Context: Day 7 and final day. All three acts are working, the dashboard is live, > and the report is written. Today was about polish, reproducibility, and professional packaging",
+      "concepts": [
+        "Ran full clean demo of all 3 acts from scratch — no stale state",
+        "Collected and organized all 23 final screenshots",
+        "Added docstrings and inline comments to all Python files (`crypto_utils.py`, `server.py`, `alice.py`, `bob.py`, `mitm.py`, `mitm_addon.py`)",
+        "Inserted all figures into the report with captions",
+        "Wrote `README.md` with setup instructions and per-act run commands",
+        "Packaged as `.zip` and verified fresh install works end-to-end"
+      ],
+      "technologies": [
+        "AES-256-GCM",
+        "HTTP/HTTPS",
+        "Python",
+        "Salesforce Trailhead"
+      ],
+      "topics": [
+        "E2E Encryption Attack Lab — Day 7: Final Run, Cleanup & Submission",
+        "What \"Clean Run\" Means (and Why It Matters)",
+        "Code Quality — Docstrings and Inline Comments",
+        "Screenshot Collection & Evidence Organization",
+        "Report Finalization",
+        "README.md — Professional Setup Guide",
+        "Packaging & Fresh Install Verification"
+      ],
+      "tags": [
+        "AES-256-GCM",
+        "Cybersecurity",
+        "Encryption",
+        "HTTP/HTTPS",
+        "Python",
+        "Salesforce",
+        "Salesforce Trailhead"
+      ],
+      "difficulty": "Intermediate",
+      "links": [],
+      "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/May-05/16-05-2026.md"
+    },
+    {
+      "id": "day-013",
+      "date": "2026-05-17",
+      "title": "Exam Preparation — Mobile Communication (Exam: May 19, 2026)",
+      "summary": "Exam Preparation — Mobile Communication (Exam: May 19, 2026) > Full day dedicated to revising Mobile Communication syllabus ahead of Tuesday's exam. Unit 1 — Introduction to Mobile Communication Unit 2 — GSM (Global System for Mobile Communication)",
+      "concepts": [
+        "Revised all 5 units of the Mobile Communication syllabus",
+        "Solved previous year question papers — focused on numericals (frequency reuse, capacity, SNR)",
+        "Made quick-revision notes for GSM architecture and CDMA power control",
+        "Practiced drawing GSM architecture and frame structure diagrams from memory"
+      ],
+      "technologies": [
+        "Salesforce Trailhead"
+      ],
+      "topics": [
+        "Exam Preparation — Mobile Communication (Exam: May 19, 2026)",
+        "Unit 1 — Introduction to Mobile Communication",
+        "Unit 2 — GSM (Global System for Mobile Communication)",
+        "Unit 3 — CDMA & Spread Spectrum",
+        "Unit 4 — Mobile Network Architecture & Protocols",
+        "Unit 5 — Wireless LAN & Advanced Topics"
+      ],
+      "tags": [
+        "Authentication",
+        "Networking",
+        "Salesforce",
+        "Salesforce Trailhead",
+        "Security"
+      ],
+      "difficulty": "Intermediate",
+      "links": [],
+      "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/May-05/17-05-2026.md"
+    },
+    {
+      "id": "day-014",
+      "date": "2026-05-18",
+      "title": "6th Semester Exam Preparation — Day 1",
+      "summary": "6th semester exams begin tomorrow. Today was the final",
+      "concepts": [
+        "Final revision for tomorrow's Mobile Communication exam",
+        "Practised writing key diagrams under timed conditions",
+        "Reviewed weak areas identified during May 17 preparation",
+        "Organized notes for the remaining exams in the week"
+      ],
+      "technologies": [
+        "Salesforce Trailhead"
+      ],
+      "topics": [
+        "6th Semester Exam Preparation — Day 1",
+        "Exam Week Overview",
+        "Today's Focus"
+      ],
+      "tags": [
+        "Salesforce",
+        "Salesforce Trailhead"
+      ],
+      "difficulty": "Beginner",
+      "links": [],
+      "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/May-05/18-05-2026.md"
+    },
+    {
+      "id": "day-015",
+      "date": "2026-05-19",
+      "title": "6th Semester Exams — Day 2 (Exam Day)",
+      "summary": "First exam of 6th semester exam week.",
+      "concepts": [
+        "Wrote today's 6th semester exam",
+        "Post-exam review — noted strong and weak areas",
+        "Began revision for the next paper"
+      ],
+      "technologies": [
+        "Salesforce Trailhead"
+      ],
+      "topics": [
+        "6th Semester Exams — Day 2 (Exam Day)",
+        "Today's Exam",
+        "Next Exam Preparation"
+      ],
+      "tags": [
+        "Salesforce",
+        "Salesforce Trailhead"
+      ],
+      "difficulty": "Beginner",
+      "links": [],
+      "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/May-05/19-05-2026.md"
+    },
+    {
+      "id": "day-016",
+      "date": "2026-05-20",
+      "title": "6th Semester Exams — Day 3 (Exam + Revision)",
+      "summary": "Continuing through the 6th semester exam week.",
+      "concepts": [
+        "Exam preparation and/or exam appearance",
+        "Solved practice problems and reviewed key formulas",
+        "Revised diagrams and architecture-level answers"
+      ],
+      "technologies": [
+        "Salesforce Trailhead"
+      ],
+      "topics": [
+        "6th Semester Exams — Day 3 (Exam + Revision)",
+        "Today's Activity"
+      ],
+      "tags": [
+        "Salesforce",
+        "Salesforce Trailhead"
+      ],
+      "difficulty": "Beginner",
+      "links": [],
+      "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/May-05/20-05-2026.md"
+    },
+    {
+      "id": "day-017",
+      "date": "2026-05-21",
+      "title": "6th Semester Exams — Day 4 (Exam + Revision)",
+      "summary": "Mid-way through the 6th semester exam week.",
+      "concepts": [
+        "Exam preparation and/or exam appearance",
+        "Focused revision on challenging topics",
+        "Practised writing structured long-answer responses"
+      ],
+      "technologies": [
+        "Salesforce Trailhead"
+      ],
+      "topics": [
+        "6th Semester Exams — Day 4 (Exam + Revision)",
+        "Today's Activity"
+      ],
+      "tags": [
+        "Salesforce",
+        "Salesforce Trailhead"
+      ],
+      "difficulty": "Beginner",
+      "links": [],
+      "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/May-05/21-05-2026.md"
+    },
+    {
+      "id": "day-018",
+      "date": "2026-05-22",
+      "title": "6th Semester Exams — Day 5 (Exam + Revision)",
+      "summary": "Nearing the end of the 6th semester exam week.",
+      "concepts": [
+        "Exam preparation and/or exam appearance",
+        "Intensive revision for the final exam paper",
+        "Reviewed all short notes and key diagrams"
+      ],
+      "technologies": [
+        "Salesforce Trailhead"
+      ],
+      "topics": [
+        "6th Semester Exams — Day 5 (Exam + Revision)",
+        "Today's Activity"
+      ],
+      "tags": [
+        "Salesforce",
+        "Salesforce Trailhead"
+      ],
+      "difficulty": "Beginner",
+      "links": [],
+      "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/May-05/22-05-2026.md"
+    },
+    {
+      "id": "day-019",
+      "date": "2026-05-23",
+      "title": "6th Semester Exams — Day 6 (Final Exam Day) ✅",
+      "summary": "Last day of the 6th semester exam week.",
+      "concepts": [
+        "Wrote the final 6th semester exam",
+        "Completed the entire exam week (May 18–23)",
+        "Reflected on the exam week — strong areas and areas for improvement"
+      ],
+      "technologies": [
+        "Salesforce Trailhead"
+      ],
+      "topics": [
+        "6th Semester Exams — Day 6 (Final Exam Day) ✅",
+        "Today's Activity",
+        "Exam Week Recap — May 18 to May 23"
+      ],
+      "tags": [
+        "Salesforce",
+        "Salesforce Trailhead"
+      ],
+      "difficulty": "Beginner",
+      "links": [],
+      "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/May-05/23-05-2026.md"
+    },
+    {
+      "id": "day-020",
+      "date": "2026-05-24",
+      "title": "Cybersecurity Fundamentals — Self-Study Day",
+      "summary": "Began a personal deep-dive into cybersecurity fundamentals.",
+      "concepts": [
+        "Self-studied cybersecurity fundamentals — definition, scope, and importance",
+        "Studied the CIA Triad in depth with real-world healthcare examples",
+        "Researched why healthcare is a prime target for cyberattacks",
+        "Took structured notes to build a personal knowledge base"
+      ],
+      "technologies": [
+        "NIST",
+        "Salesforce Trailhead"
+      ],
+      "topics": [
+        "Cybersecurity Fundamentals — Self-Study Day",
+        "Definition & Importance of Cybersecurity",
+        "CIA Triad — The Foundation of Information Security",
+        "Why Cybersecurity Matters in Healthcare"
+      ],
+      "tags": [
+        "CIA Triad",
+        "Cloud",
+        "Cybersecurity",
+        "Encryption",
+        "Hashing",
+        "NIST",
+        "Ransomware",
+        "Salesforce",
+        "Salesforce Trailhead",
+        "Security"
+      ],
+      "difficulty": "Intermediate",
+      "links": [
+        {
+          "label": "**All Work & Notes — Google Drive**",
+          "url": "https://drive.google.com/drive/folders/1Mb9oE35tasgjPyafce1RXabL4UV8l6yQ?usp=sharing"
+        }
+      ],
+      "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/May-05/24-05-2026.md"
+    },
+    {
+      "id": "day-021",
+      "date": "2026-05-25",
+      "title": "Cybersecurity Deep Dive — Frameworks & Security Types",
+      "summary": "Continuing the personal cybersecurity study. Today's focus was on",
+      "concepts": [
+        "Studied NIST, ISO 27001, and CERT-In frameworks in detail",
+        "Documented each cybersecurity domain with real-world applications",
+        "Started building a personal Cybersecurity PPT to consolidate learnings",
+        "Outlined all major sections for the PPT"
+      ],
+      "technologies": [
+        "NIST",
+        "Salesforce Trailhead"
+      ],
+      "topics": [
+        "Cybersecurity Deep Dive — Frameworks & Security Types",
+        "Security Frameworks Studied",
+        "Types of Cybersecurity"
+      ],
+      "tags": [
+        "Authentication",
+        "Cloud",
+        "Cybersecurity",
+        "Encryption",
+        "NIST",
+        "Networking",
+        "Salesforce",
+        "Salesforce Trailhead",
+        "Security"
+      ],
+      "difficulty": "Beginner",
+      "links": [
+        {
+          "label": "**All Work & Notes — Google Drive**",
+          "url": "https://drive.google.com/drive/folders/1Mb9oE35tasgjPyafce1RXabL4UV8l6yQ?usp=sharing"
+        }
+      ],
+      "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/May-05/25-05-2026.md"
+    },
+    {
+      "id": "day-022",
+      "date": "2026-05-26",
+      "title": "Cybersecurity Study — Attack Types Deep Dive",
+      "summary": "Continuing the personal cybersecurity study. Today's focus was entirely",
+      "concepts": [
+        "Researched all major attack types in depth with real-world examples",
+        "Drafted detailed notes for each attack type with definitions, variants, and mitigations",
+        "Connected attack types to real-world incidents (WannaCry, credential stuffing breaches)",
+        "Prepared comparison notes between similar attacks (DoS vs DDoS, virus vs worm)"
+      ],
+      "technologies": [
+        "AWS",
+        "HTTP/HTTPS",
+        "Salesforce Trailhead"
+      ],
+      "topics": [
+        "Cybersecurity Study — Attack Types Deep Dive",
+        "Attack Types — Comprehensive Research"
+      ],
+      "tags": [
+        "AWS",
+        "Authentication",
+        "Backend",
+        "Cybersecurity",
+        "Encryption",
+        "HTTP/HTTPS",
+        "Hashing",
+        "Networking",
+        "Ransomware",
+        "Salesforce",
+        "Salesforce Trailhead",
+        "Security"
+      ],
+      "difficulty": "Intermediate",
+      "links": [
+        {
+          "label": "**All Work & Notes — Google Drive**",
+          "url": "https://drive.google.com/drive/folders/1Mb9oE35tasgjPyafce1RXabL4UV8l6yQ?usp=sharing"
+        }
+      ],
+      "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/May-05/26-05-2026.md"
+    },
+    {
+      "id": "day-023",
+      "date": "2026-05-27",
+      "title": "Cybersecurity Study — Attack Lifecycle & PPT Finalization",
+      "summary": "Continuing personal cybersecurity study. Today's focus was on understanding",
+      "concepts": [
+        "Structured the attack lifecycle into a clear 3-phase model with detailed sub-steps",
+        "Created the lifecycle-to-attack-type mapping",
+        "Finalized the Cybersecurity PPT — all sections complete",
+        "Improved slide visuals — moved from text-heavy to visual-heavy format"
+      ],
+      "technologies": [
+        "NIST",
+        "Salesforce Trailhead"
+      ],
+      "topics": [
+        "Cybersecurity Study — Attack Lifecycle & PPT Finalization",
+        "Attack Lifecycle — Structured 3-Phase Model",
+        "Connecting Attack Types to the Lifecycle",
+        "Cybersecurity PPT — Completed ✓"
+      ],
+      "tags": [
+        "CIA Triad",
+        "Cloud",
+        "Cybersecurity",
+        "NIST",
+        "Networking",
+        "Open Source",
+        "Ransomware",
+        "Salesforce",
+        "Salesforce Trailhead",
+        "Security"
+      ],
+      "difficulty": "Intermediate",
+      "links": [
+        {
+          "label": "**All Work & Notes — Google Drive**",
+          "url": "https://drive.google.com/drive/folders/1Mb9oE35tasgjPyafce1RXabL4UV8l6yQ?usp=sharing"
+        }
+      ],
+      "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/May-05/27-05-2026.md"
+    },
+    {
+      "id": "day-024",
+      "date": "2026-05-28",
+      "title": "AIIMS Delhi Ransomware Attack — Case Study Research (Started)",
+      "summary": "After completing the Cybersecurity PPT, started a personal case study",
+      "concepts": [
+        "Began a personal case study report on the AIIMS Delhi ransomware attack",
+        "Researched the attack extensively — news reports, security analyses, incident timelines",
+        "Drafted the Attack Overview and CIA Triad Analysis sections",
+        "Documented the attack chain from phishing email to ransomware deployment"
+      ],
+      "technologies": [
+        "Salesforce Trailhead"
+      ],
+      "topics": [
+        "AIIMS Delhi Ransomware Attack — Case Study Research (Started)",
+        "1. Attack Overview",
+        "2. How the Attack Began — Attack Chain Analysis",
+        "3. CIA Triad Analysis of the Breach"
+      ],
+      "tags": [
+        "CIA Triad",
+        "Cybersecurity",
+        "Encryption",
+        "Networking",
+        "Ransomware",
+        "Salesforce",
+        "Salesforce Trailhead",
+        "Security"
+      ],
+      "difficulty": "Beginner",
+      "links": [
+        {
+          "label": "**All Work & Notes — Google Drive**",
+          "url": "https://drive.google.com/drive/folders/1Mb9oE35tasgjPyafce1RXabL4UV8l6yQ?usp=sharing"
+        }
+      ],
+      "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/May-05/28-05-2026.md"
+    },
+    {
+      "id": "day-025",
+      "date": "2026-05-29",
+      "title": "AIIMS Case Study Completed & Network Protocols Study Started",
+      "summary": "Completed the AIIMS Delhi Ransomware case study report — attacker profile,",
+      "concepts": [
+        "Completed the AIIMS Ransomware case study — attacker profile, technical arsenal, security recommendations, conclusion",
+        "Began research on Network Protocols and OSI Model",
+        "Studied the three categories of network protocols"
+      ],
+      "technologies": [
+        "HTTP/HTTPS",
+        "OSI Model",
+        "Salesforce Trailhead"
+      ],
+      "topics": [
+        "AIIMS Case Study Completed & Network Protocols Study Started",
+        "AIIMS Ransomware Report — Final Sections Completed",
+        "Network Protocols & OSI Model — Research Started"
+      ],
+      "tags": [
+        "Authentication",
+        "Cybersecurity",
+        "Encryption",
+        "HTTP/HTTPS",
+        "Networking",
+        "OSI Model",
+        "Ransomware",
+        "Salesforce",
+        "Salesforce Trailhead",
+        "Security"
+      ],
+      "difficulty": "Beginner",
+      "links": [
+        {
+          "label": "**All Work & Notes — Google Drive**",
+          "url": "https://drive.google.com/drive/folders/1Mb9oE35tasgjPyafce1RXabL4UV8l6yQ?usp=sharing"
+        }
+      ],
+      "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/May-05/29-05-2026.md"
+    },
+    {
+      "id": "day-026",
+      "date": "2026-05-30",
+      "title": "Network Protocols & OSI Model — Study Completed ✓",
+      "summary": "Completed the deep dive into Network Protocols and the OSI Model.",
+      "concepts": [
+        "Completed the full Network Protocols & OSI Model study with all 7 layers",
+        "Created detailed comparison tables for TCP vs UDP",
+        "Documented key protocols: HTTP, DNS, ARP, ICMP",
+        "Built a comprehensive PPT consolidating all networking learnings"
+      ],
+      "technologies": [
+        "HTTP/HTTPS",
+        "OSI Model",
+        "Salesforce Trailhead"
+      ],
+      "topics": [
+        "Network Protocols & OSI Model — Study Completed ✓",
+        "OSI Model — All 7 Layers Explained",
+        "OSI Quick Reference Table",
+        "Key Protocol Deep Dives",
+        "Network Architecture & Data Flow"
+      ],
+      "tags": [
+        "Encryption",
+        "HTTP/HTTPS",
+        "Networking",
+        "OSI Model",
+        "Performance",
+        "Salesforce",
+        "Salesforce Trailhead"
+      ],
+      "difficulty": "Intermediate",
+      "links": [
+        {
+          "label": "**All Work & Notes — Google Drive**",
+          "url": "https://drive.google.com/drive/folders/1Mb9oE35tasgjPyafce1RXabL4UV8l6yQ?usp=sharing"
+        }
+      ],
+      "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/May-05/30-05-2026.md"
+    },
+    {
+      "id": "day-027",
+      "date": "2026-05-31",
+      "title": "Week Review — Consolidating Cybersecurity & Networking Knowledge",
+      "summary": "Weekend review day. All personal projects for the week are complete.",
+      "concepts": [
+        "Reviewed all 3 completed personal projects for accuracy and completeness",
+        "Self-tested OSI model layer recall without notes",
+        "Identified the cross-connections between cybersecurity concepts and network protocols",
+        "Outlined additional mitigation strategies for the AIIMS case study"
+      ],
+      "technologies": [
+        "HTTP/HTTPS",
+        "NIST",
+        "OSI Model",
+        "Salesforce Trailhead"
+      ],
+      "topics": [
+        "Week Review — Consolidating Cybersecurity & Networking Knowledge",
+        "Week Recap — Consolidating Knowledge",
+        "Bridging Cybersecurity & Networking Concepts"
+      ],
+      "tags": [
+        "CIA Triad",
+        "Cybersecurity",
+        "Encryption",
+        "HTTP/HTTPS",
+        "NIST",
+        "Networking",
+        "OSI Model",
+        "Ransomware",
+        "Salesforce",
+        "Salesforce Trailhead",
+        "Security",
+        "Testing"
+      ],
+      "difficulty": "Intermediate",
+      "links": [
+        {
+          "label": "**All Work & Notes — Google Drive**",
+          "url": "https://drive.google.com/drive/folders/1Mb9oE35tasgjPyafce1RXabL4UV8l6yQ?usp=sharing"
+        }
+      ],
+      "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/May-05/31-05-2026.md"
+    },
+    {
+      "id": "day-028",
+      "date": "2026-06-01",
+      "title": "Weekly Learning Summary & AIIMS Mitigation Deep Dive",
+      "summary": "End of the week. All 3 personal projects completed.",
+      "concepts": [
+        "Compiled the weekly learning summary",
+        "Extended the AIIMS case study with a comprehensive mitigation strategies section",
+        "Reviewed all three project deliverables for completeness",
+        "Organized conclusions and key takeaways from the AIIMS case study"
+      ],
+      "technologies": [
+        "NIST",
+        "OSI Model",
+        "Salesforce Trailhead"
+      ],
+      "topics": [
+        "Weekly Learning Summary & AIIMS Mitigation Deep Dive",
+        "Weekly Learning Summary",
+        "AIIMS Case Study — Mitigation Strategies Deep Dive",
+        "Key Conclusions from the AIIMS Case Study"
+      ],
+      "tags": [
+        "CIA Triad",
+        "Cloud",
+        "Cybersecurity",
+        "Encryption",
+        "NIST",
+        "Networking",
+        "OSI Model",
+        "Ransomware",
+        "Salesforce",
+        "Salesforce Trailhead",
+        "Security",
+        "Testing"
+      ],
+      "difficulty": "Intermediate",
+      "links": [
+        {
+          "label": "**All Work & Notes — Google Drive**",
+          "url": "https://drive.google.com/drive/folders/1Mb9oE35tasgjPyafce1RXabL4UV8l6yQ?usp=sharing"
+        }
+      ],
+      "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/01-06-2026.md"
+    },
+    {
+      "id": "day-029",
+      "date": "2026-06-02",
+      "title": "AIIMS Report — Why Hospitals Are Targeted",
+      "summary": "Continuing the AIIMS Delhi ransomware case study.",
+      "concepts": [
+        "Extended the AIIMS case study report with a new section on the threat landscape",
+        "Researched and documented why hospitals are easy targets (6 key factors)",
+        "Analysed why ransomware is particularly effective against healthcare organisations",
+        "Documented key statistics on healthcare ransomware trends"
+      ],
+      "technologies": [
+        "Salesforce Trailhead"
+      ],
+      "topics": [
+        "AIIMS Report — Why Hospitals Are Targeted",
+        "Why Hospitals Are Easy Targets",
+        "Why Ransomware Works Especially Well on Hospitals"
+      ],
+      "tags": [
+        "Cybersecurity",
+        "Encryption",
+        "Networking",
+        "Ransomware",
+        "Salesforce",
+        "Salesforce Trailhead",
+        "Security"
+      ],
+      "difficulty": "Intermediate",
+      "links": [
+        {
+          "label": "**All Work & Notes — Google Drive**",
+          "url": "https://drive.google.com/drive/folders/1Mb9oE35tasgjPyafce1RXabL4UV8l6yQ?usp=sharing"
+        }
+      ],
+      "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/02-06-2026.md"
+    },
+    {
+      "id": "day-030",
+      "date": "2026-06-03",
+      "title": "AIIMS Report — Major Global Healthcare Cyberattacks",
+      "summary": "Continuing the AIIMS Delhi ransomware case study.",
+      "concepts": [
+        "Researched and documented two major global healthcare cyberattacks (SingHealth & Change Healthcare)",
+        "Drew parallels between AIIMS, SingHealth, and Change Healthcare breaches",
+        "Analysed common attack patterns: stolen credentials, lack of MFA, lateral movement, and delayed escalation",
+        "Documented the geopolitical dimension of healthcare cyberattacks"
+      ],
+      "technologies": [
+        "Salesforce Trailhead"
+      ],
+      "topics": [
+        "AIIMS Report — Major Global Healthcare Cyberattacks",
+        "SingHealth Attack — Singapore (2018)",
+        "Change Healthcare Attack — United States (2024)"
+      ],
+      "tags": [
+        "Cybersecurity",
+        "Encryption",
+        "Ransomware",
+        "Salesforce",
+        "Salesforce Trailhead"
+      ],
+      "difficulty": "Beginner",
+      "links": [
+        {
+          "label": "**All Work & Notes — Google Drive**",
+          "url": "https://drive.google.com/drive/folders/1Mb9oE35tasgjPyafce1RXabL4UV8l6yQ?usp=sharing"
+        }
+      ],
+      "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/03-06-2026.md"
+    },
+    {
+      "id": "day-031",
+      "date": "2026-06-04",
+      "title": "VaultZero — Zero-Knowledge Password Manager (Project Planning)",
+      "summary": "Starting a new personal project — VaultZero.",
+      "concepts": [
+        "Defined the complete product vision and threat model for VaultZero",
+        "Documented the zero-knowledge encryption architecture and its real-world implications",
+        "Mapped out the full feature set across all target platforms (extension, Android, iOS)",
+        "Identified the core architectural decisions — Argon2id key derivation, AES-256-GCM encryption, offline-first sync",
+        "Outlined the honest limitations of the approach (client-side malware)"
+      ],
+      "technologies": [
+        "AES-256-GCM",
+        "Argon2id",
+        "PostgreSQL",
+        "React",
+        "Salesforce Trailhead",
+        "TypeScript"
+      ],
+      "topics": [
+        "VaultZero — Zero-Knowledge Password Manager (Project Planning)",
+        "The Core Idea",
+        "What This Means in Practice",
+        "Honest Limitation",
+        "Planned Features",
+        "Architecture Philosophy",
+        "Target Platforms"
+      ],
+      "tags": [
+        "AES-256-GCM",
+        "Argon2id",
+        "Authentication",
+        "Backend",
+        "Encryption",
+        "Password Manager",
+        "PostgreSQL",
+        "React",
+        "Salesforce",
+        "Salesforce Trailhead",
+        "TypeScript"
+      ],
+      "difficulty": "Intermediate",
+      "links": [
+        {
+          "label": "**All Work & Notes — Google Drive**",
+          "url": "https://drive.google.com/drive/folders/1Mb9oE35tasgjPyafce1RXabL4UV8l6yQ?usp=sharing"
+        }
+      ],
+      "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/04-06-2026.md"
+    },
+    {
+      "id": "day-032",
+      "date": "2026-06-05",
+      "title": "VaultZero — Cryptographic Architecture Research & Tech Stack Decisions",
+      "summary": "Day 0 of VaultZero — before writing a single line of code.",
+      "concepts": [
+        "Designed the complete zero-knowledge threat model for VaultZero",
+        "Evaluated and chose Argon2id over bcrypt/scrypt with documented rationale",
+        "Designed the two-layer key architecture (KEK + Vault Key) to allow password changes without vault re-encryption",
+        "Chose npm workspaces over Turborepo/Nx for monorepo management — documented the trade-offs",
+        "Designed the 5-model Prisma schema (User, VaultBlob, Device, AuditLog, RefreshToken)",
+        "Mapped out the complete 93-file folder structure for the monorepo"
+      ],
+      "technologies": [
+        "AES-256-GCM",
+        "Argon2id",
+        "JavaScript",
+        "NIST",
+        "Salesforce Trailhead",
+        "TypeScript",
+        "WebCrypto API",
+        "libsodium",
+        "npm"
+      ],
+      "topics": [
+        "VaultZero — Cryptographic Architecture Research & Tech Stack Decisions",
+        "Why Zero-Knowledge? The Threat Model First",
+        "Key Derivation — Why Argon2id over bcrypt/scrypt",
+        "Encryption — Why AES-256-GCM",
+        "Two-Layer Key Architecture",
+        "Monorepo Design — npm Workspaces",
+        "Database Design — Key Decisions"
+      ],
+      "tags": [
+        "AES-256-GCM",
+        "Argon2id",
+        "Authentication",
+        "Backend",
+        "Cryptography",
+        "Encryption",
+        "Hashing",
+        "JavaScript",
+        "NIST",
+        "Password Manager",
+        "Salesforce",
+        "Salesforce Trailhead",
+        "Security",
+        "TypeScript",
+        "WebCrypto API",
+        "libsodium",
+        "npm"
+      ],
+      "difficulty": "Advanced",
+      "links": [
+        {
+          "label": "**All Work & Notes — Google Drive**",
+          "url": "https://drive.google.com/drive/folders/1Mb9oE35tasgjPyafce1RXabL4UV8l6yQ?usp=sharing"
+        }
+      ],
+      "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/05-06-2026.md"
+    },
+    {
+      "id": "day-033",
+      "date": "2026-06-06",
+      "title": "VaultZero — Day 1: Monorepo Scaffold, Prisma Schema & Repository Setup",
+      "summary": "Day 1 of the 14-day VaultZero build.",
+      "concepts": [
+        "Initialised the full npm workspaces monorepo with 4 packages (`core`, `backend`, `extension`, `web`)",
+        "Created all 93 files — package configs, TypeScript configs, Jest configs, esbuild config, Manifest V3, folder structure stubs",
+        "Wrote the complete Prisma schema: `User`, `VaultBlob`, `Device`, `AuditLog`, `RefreshToken` with all relations and field mappings",
+        "Configured root-level scripts for building, running, migrating, and testing all workspaces with a single command",
+        "Verified the entire scaffold — 0 TypeScript errors, Prisma client generated, all 93 files pushed to GitHub"
+      ],
+      "technologies": [
+        "AES-256-GCM",
+        "Argon2id",
+        "Git",
+        "JSON",
+        "JWT",
+        "React",
+        "Salesforce Trailhead",
+        "TypeScript",
+        "npm"
+      ],
+      "topics": [
+        "VaultZero — Day 1: Monorepo Scaffold, Prisma Schema & Repository Setup",
+        "npm Workspaces — How the Monorepo Is Wired",
+        "TypeScript Configuration Strategy",
+        "The Prisma Schema — 5 Models, Every Field Intentional",
+        "Folder Structure — What Each Package Does",
+        "Security Rules Baked in from Day 1",
+        "Verification"
+      ],
+      "tags": [
+        "AES-256-GCM",
+        "Argon2id",
+        "Authentication",
+        "Backend",
+        "Cryptography",
+        "Encryption",
+        "Git",
+        "JSON",
+        "JWT",
+        "Password Manager",
+        "React",
+        "Salesforce",
+        "Salesforce Trailhead",
+        "Security",
+        "Testing",
+        "TypeScript",
+        "npm"
+      ],
+      "difficulty": "Advanced",
+      "links": [
+        {
+          "label": "**All Work & Notes — Google Drive**",
+          "url": "https://drive.google.com/drive/folders/1Mb9oE35tasgjPyafce1RXabL4UV8l6yQ?usp=sharing"
+        },
+        {
+          "label": "**VaultZero GitHub Repository**",
+          "url": "https://github.com/Sanskar-bot/VaultZero"
+        }
+      ],
+      "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/06-06-2026.md"
+    },
+    {
+      "id": "day-034",
+      "date": "2026-06-07",
+      "title": "VaultZero — Day 2: Crypto Core — Argon2id, AES-256-GCM & Key Management",
+      "summary": "Day 2 of the 14-day VaultZero build.",
+      "concepts": [
+        "Implemented `argon2.ts` — Argon2id key derivation using libsodium, 64 MB memory-hard, CSPRNG salt generation",
+        "Implemented `aes-gcm.ts` — AES-256-GCM authenticated encryption using WebCrypto, fresh IV per call, deliberate error message collapsing",
+        "Implemented `keys.ts` — vault key generation, wrap (encrypt with KEK), and unwrap (decrypt with KEK)",
+        "Exported all crypto primitives through `core/src/crypto/index.ts` and the package barrel `core/src/index.ts`",
+        "Verified `npx tsc --noEmit` passes with zero errors across all crypto files"
+      ],
+      "technologies": [
+        "AES-256-GCM",
+        "Argon2id",
+        "JavaScript",
+        "NIST",
+        "Salesforce Trailhead",
+        "TypeScript",
+        "WebCrypto API",
+        "libsodium"
+      ],
+      "topics": [
+        "VaultZero — Day 2: Crypto Core — Argon2id, AES-256-GCM & Key Management",
+        "The Crypto Module Structure",
+        "— Deriving the Key Encryption Key",
+        "— Authenticated Encryption",
+        "— Vault Key Wrap & Unwrap",
+        "Why WebCrypto () not libsodium for AES-GCM?"
+      ],
+      "tags": [
+        "AES-256-GCM",
+        "Argon2id",
+        "Authentication",
+        "Cryptography",
+        "Encryption",
+        "JavaScript",
+        "NIST",
+        "Password Manager",
+        "Performance",
+        "Salesforce",
+        "Salesforce Trailhead",
+        "Security",
+        "TypeScript",
+        "WebCrypto API",
+        "libsodium"
+      ],
+      "difficulty": "Advanced",
+      "links": [
+        {
+          "label": "**All Work & Notes — Google Drive**",
+          "url": "https://drive.google.com/drive/folders/1Mb9oE35tasgjPyafce1RXabL4UV8l6yQ?usp=sharing"
+        },
+        {
+          "label": "**VaultZero GitHub Repository**",
+          "url": "https://github.com/Sanskar-bot/VaultZero"
+        }
+      ],
+      "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/07-06-2026.md"
+    },
+    {
+      "id": "day-035",
+      "date": "2026-06-08",
+      "title": "VaultZero — Day 3: Vault Operations, Recovery Phrase & Encoding Utilities",
+      "summary": "Day 3 of the 14-day VaultZero build.",
+      "concepts": [
+        "Defined `VaultEntry`, `Vault`, and `EncryptedVault` TypeScript interfaces with `readonly` fields and schema versioning",
+        "Implemented `encryptVault` and `decryptVault` — full vault serialise → UTF-8 → AES-256-GCM → base64 pipeline",
+        "Implemented BIP-39 recovery phrase generation (256-bit entropy, SHA-256 checksum, 2048-word wordlist)",
+        "Implemented all encoding helpers — `toBase64`, `fromBase64`, `toHex`, `fromHex`, `toUTF8Bytes`, `fromUTF8Bytes`",
+        "Implemented `constantTimeEqual` for timing-safe hash comparisons",
+        "Wired all modules through barrel `index.ts` files — `@vaultzero/core` is now a complete, importable library",
+        "Verified `npx tsc --noEmit` passes with zero errors across all core files"
+      ],
+      "technologies": [
+        "AES-256-GCM",
+        "BIP-39",
+        "Node.js",
+        "Salesforce Trailhead",
+        "TypeScript"
+      ],
+      "topics": [
+        "VaultZero — Day 3: Vault Operations, Recovery Phrase & Encoding Utilities",
+        "— The Data Model",
+        "— Encrypt and Decrypt the Full Vault",
+        "— 24-Word Recovery Phrase",
+        "— The Boring but Essential Layer",
+        "— The Complete Public API"
+      ],
+      "tags": [
+        "AES-256-GCM",
+        "BIP-39",
+        "Backend",
+        "Encryption",
+        "Node.js",
+        "Password Manager",
+        "Salesforce",
+        "Salesforce Trailhead",
+        "TypeScript"
+      ],
+      "difficulty": "Advanced",
+      "links": [
+        {
+          "label": "**All Work & Notes — Google Drive**",
+          "url": "https://drive.google.com/drive/folders/1Mb9oE35tasgjPyafce1RXabL4UV8l6yQ?usp=sharing"
+        },
+        {
+          "label": "**VaultZero GitHub Repository**",
+          "url": "https://github.com/Sanskar-bot/VaultZero"
+        }
+      ],
+      "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/08-06-2026.md"
+    }
+  ]
+}

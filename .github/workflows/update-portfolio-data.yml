@@ -1,0 +1,72 @@
+name: Update Portfolio Data
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      # Only trigger when a learning markdown file is added/edited
+      - '**/*.md'
+      - '!README.md'
+      - '!portfolio-data/**'
+      # Also re-run if the generator script itself changes
+      - 'scripts/generate-portfolio-data.js'
+
+  # Allow manual trigger from the GitHub Actions tab
+  workflow_dispatch:
+
+permissions:
+  contents: write   # needed to commit the generated JSON files back
+
+jobs:
+  generate:
+    name: Generate Portfolio Data
+    runs-on: ubuntu-latest
+
+    steps:
+      # ── 1. Checkout ─────────────────────────────────────────────────────────
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # full history so git log works inside the script if needed
+
+      # ── 2. Setup Node ────────────────────────────────────────────────────────
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      # ── 3. Install dependencies (none required — pure Node built-ins) ────────
+      # If you add npm dependencies to the script in the future,
+      # uncomment the lines below and add a package.json.
+      #
+      # - name: Install dependencies
+      #   run: npm ci
+
+      # ── 4. Run the generator ─────────────────────────────────────────────────
+      - name: Generate portfolio-data JSON files
+        run: node scripts/generate-portfolio-data.js
+
+      # ── 5. Commit and push only if files changed ─────────────────────────────
+      - name: Commit updated portfolio-data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Stage only the portfolio-data directory
+          git add portfolio-data/
+
+          # Exit gracefully if nothing changed (idempotent runs)
+          if git diff --cached --quiet; then
+            echo "No changes to portfolio-data — skipping commit."
+            exit 0
+          fi
+
+          # Compose a commit message that shows which learning file triggered the run
+          TRIGGER_FILE="${{ github.event.head_commit.message }}"
+          git commit -m "chore(portfolio-data): auto-regenerate JSON [skip ci]
+
+          Triggered by: ${TRIGGER_FILE}
+          Workflow run: ${{ github.run_id }}"
+
+          git push

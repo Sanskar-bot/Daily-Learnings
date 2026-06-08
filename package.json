@@ -1,0 +1,12 @@
+{
+  "name": "daily-learnings-portfolio-tools",
+  "version": "1.0.0",
+  "description": "Scripts to generate machine-readable portfolio data from Daily-Learnings markdown files.",
+  "private": true,
+  "scripts": {
+    "generate": "node scripts/generate-portfolio-data.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

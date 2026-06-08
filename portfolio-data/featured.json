@@ -1,0 +1,290 @@
+[
+  {
+    "id": "day-035",
+    "date": "2026-06-08",
+    "title": "VaultZero — Day 3: Vault Operations, Recovery Phrase & Encoding Utilities",
+    "summary": "Day 3 of the 14-day VaultZero build.",
+    "tags": [
+      "AES-256-GCM",
+      "BIP-39",
+      "Backend",
+      "Encryption",
+      "Node.js",
+      "Password Manager",
+      "Salesforce",
+      "Salesforce Trailhead",
+      "TypeScript"
+    ],
+    "difficulty": "Advanced",
+    "technologies": [
+      "AES-256-GCM",
+      "BIP-39",
+      "Node.js",
+      "Salesforce Trailhead",
+      "TypeScript"
+    ],
+    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/08-06-2026.md"
+  },
+  {
+    "id": "day-034",
+    "date": "2026-06-07",
+    "title": "VaultZero — Day 2: Crypto Core — Argon2id, AES-256-GCM & Key Management",
+    "summary": "Day 2 of the 14-day VaultZero build.",
+    "tags": [
+      "AES-256-GCM",
+      "Argon2id",
+      "Authentication",
+      "Cryptography",
+      "Encryption",
+      "JavaScript",
+      "NIST",
+      "Password Manager",
+      "Performance",
+      "Salesforce",
+      "Salesforce Trailhead",
+      "Security",
+      "TypeScript",
+      "WebCrypto API",
+      "libsodium"
+    ],
+    "difficulty": "Advanced",
+    "technologies": [
+      "AES-256-GCM",
+      "Argon2id",
+      "JavaScript",
+      "NIST",
+      "Salesforce Trailhead",
+      "TypeScript",
+      "WebCrypto API",
+      "libsodium"
+    ],
+    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/07-06-2026.md"
+  },
+  {
+    "id": "day-032",
+    "date": "2026-06-05",
+    "title": "VaultZero — Cryptographic Architecture Research & Tech Stack Decisions",
+    "summary": "Day 0 of VaultZero — before writing a single line of code.",
+    "tags": [
+      "AES-256-GCM",
+      "Argon2id",
+      "Authentication",
+      "Backend",
+      "Cryptography",
+      "Encryption",
+      "Hashing",
+      "JavaScript",
+      "NIST",
+      "Password Manager",
+      "Salesforce",
+      "Salesforce Trailhead",
+      "Security",
+      "TypeScript",
+      "WebCrypto API",
+      "libsodium",
+      "npm"
+    ],
+    "difficulty": "Advanced",
+    "technologies": [
+      "AES-256-GCM",
+      "Argon2id",
+      "JavaScript",
+      "NIST",
+      "Salesforce Trailhead",
+      "TypeScript",
+      "WebCrypto API",
+      "libsodium",
+      "npm"
+    ],
+    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/05-06-2026.md"
+  },
+  {
+    "id": "day-033",
+    "date": "2026-06-06",
+    "title": "VaultZero — Day 1: Monorepo Scaffold, Prisma Schema & Repository Setup",
+    "summary": "Day 1 of the 14-day VaultZero build.",
+    "tags": [
+      "AES-256-GCM",
+      "Argon2id",
+      "Authentication",
+      "Backend",
+      "Cryptography",
+      "Encryption",
+      "Git",
+      "JSON",
+      "JWT",
+      "Password Manager",
+      "React",
+      "Salesforce",
+      "Salesforce Trailhead",
+      "Security",
+      "Testing",
+      "TypeScript",
+      "npm"
+    ],
+    "difficulty": "Advanced",
+    "technologies": [
+      "AES-256-GCM",
+      "Argon2id",
+      "Git",
+      "JSON",
+      "JWT",
+      "React",
+      "Salesforce Trailhead",
+      "TypeScript",
+      "npm"
+    ],
+    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/06-06-2026.md"
+  },
+  {
+    "id": "day-026",
+    "date": "2026-05-30",
+    "title": "Network Protocols & OSI Model — Study Completed ✓",
+    "summary": "Completed the deep dive into Network Protocols and the OSI Model.",
+    "tags": [
+      "Encryption",
+      "HTTP/HTTPS",
+      "Networking",
+      "OSI Model",
+      "Performance",
+      "Salesforce",
+      "Salesforce Trailhead"
+    ],
+    "difficulty": "Intermediate",
+    "technologies": [
+      "HTTP/HTTPS",
+      "OSI Model",
+      "Salesforce Trailhead"
+    ],
+    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/May-05/30-05-2026.md"
+  },
+  {
+    "id": "day-012",
+    "date": "2026-05-16",
+    "title": "E2E Encryption Attack Lab — Day 7: Final Run, Cleanup & Submission",
+    "summary": "E2E Encryption Attack Lab — Day 7: Final Run, Cleanup & Submission > Project Context: Day 7 and final day. All three acts are working, the dashboard is live, > and the report is written. Today was about polish, reproducibility, and professional packaging",
+    "tags": [
+      "AES-256-GCM",
+      "Cybersecurity",
+      "Encryption",
+      "HTTP/HTTPS",
+      "Python",
+      "Salesforce",
+      "Salesforce Trailhead"
+    ],
+    "difficulty": "Intermediate",
+    "technologies": [
+      "AES-256-GCM",
+      "HTTP/HTTPS",
+      "Python",
+      "Salesforce Trailhead"
+    ],
+    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/May-05/16-05-2026.md"
+  },
+  {
+    "id": "day-031",
+    "date": "2026-06-04",
+    "title": "VaultZero — Zero-Knowledge Password Manager (Project Planning)",
+    "summary": "Starting a new personal project — VaultZero.",
+    "tags": [
+      "AES-256-GCM",
+      "Argon2id",
+      "Authentication",
+      "Backend",
+      "Encryption",
+      "Password Manager",
+      "PostgreSQL",
+      "React",
+      "Salesforce",
+      "Salesforce Trailhead",
+      "TypeScript"
+    ],
+    "difficulty": "Intermediate",
+    "technologies": [
+      "AES-256-GCM",
+      "Argon2id",
+      "PostgreSQL",
+      "React",
+      "Salesforce Trailhead",
+      "TypeScript"
+    ],
+    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/04-06-2026.md"
+  },
+  {
+    "id": "day-022",
+    "date": "2026-05-26",
+    "title": "Cybersecurity Study — Attack Types Deep Dive",
+    "summary": "Continuing the personal cybersecurity study. Today's focus was entirely",
+    "tags": [
+      "AWS",
+      "Authentication",
+      "Backend",
+      "Cybersecurity",
+      "Encryption",
+      "HTTP/HTTPS",
+      "Hashing",
+      "Networking",
+      "Ransomware",
+      "Salesforce",
+      "Salesforce Trailhead",
+      "Security"
+    ],
+    "difficulty": "Intermediate",
+    "technologies": [
+      "AWS",
+      "HTTP/HTTPS",
+      "Salesforce Trailhead"
+    ],
+    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/May-05/26-05-2026.md"
+  },
+  {
+    "id": "day-028",
+    "date": "2026-06-01",
+    "title": "Weekly Learning Summary & AIIMS Mitigation Deep Dive",
+    "summary": "End of the week. All 3 personal projects completed.",
+    "tags": [
+      "CIA Triad",
+      "Cloud",
+      "Cybersecurity",
+      "Encryption",
+      "NIST",
+      "Networking",
+      "OSI Model",
+      "Ransomware",
+      "Salesforce",
+      "Salesforce Trailhead",
+      "Security",
+      "Testing"
+    ],
+    "difficulty": "Intermediate",
+    "technologies": [
+      "NIST",
+      "OSI Model",
+      "Salesforce Trailhead"
+    ],
+    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/01-06-2026.md"
+  },
+  {
+    "id": "day-011",
+    "date": "2026-05-15",
+    "title": "E2E Encryption Attack Lab — Day 6: Technical Report Writing",
+    "summary": "E2E Encryption Attack Lab — Day 6: Technical Report Writing > Project Context: Day 6. All code is complete. Today was dedicated to writing the full > technical report — translating the 5 days of implementation into a structured, academic-quality",
+    "tags": [
+      "AES-256-GCM",
+      "Authentication",
+      "CIA Triad",
+      "Encryption",
+      "HTTP/HTTPS",
+      "Salesforce",
+      "Salesforce Trailhead",
+      "Security"
+    ],
+    "difficulty": "Intermediate",
+    "technologies": [
+      "AES-256-GCM",
+      "HTTP/HTTPS",
+      "Salesforce Trailhead"
+    ],
+    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/May-05/15-05-2026.md"
+  }
+]
