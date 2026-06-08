@@ -40,8 +40,8 @@
       "Salesforce Trailhead"
     ],
     "difficulty": "Beginner",
-    "sourceFile": "02-09-05-2026.md",
-    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/May-05/02-09-05-2026.md",
+    "sourceFile": "02-05-2026.md",
+    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/May-05/02-05-2026.md",
     "wordCount": 330
   },
   {
@@ -684,5 +684,52 @@
     "sourceFile": "08-06-2026.md",
     "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/08-06-2026.md",
     "wordCount": 1345
+  },
+  {
+    "id": "day-036",
+    "date": "2026-06-09",
+    "title": "Cybersecurity Portfolio — Day 1: Tech Stack, Design System & Core Structure",
+    "summary": "Day 1 of building a production-grade cybersecurity portfolio from scratch.",
+    "tags": [
+      "CSS",
+      "Cryptography",
+      "Cybersecurity",
+      "Full Stack",
+      "JavaScript",
+      "Next.js",
+      "Performance",
+      "React",
+      "Salesforce",
+      "Salesforce Trailhead",
+      "Security",
+      "TypeScript",
+      "Vite"
+    ],
+    "difficulty": "Advanced",
+    "sourceFile": "09-06-2026.md",
+    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/09-06-2026.md",
+    "wordCount": 1380
+  },
+  {
+    "id": "day-037",
+    "date": "2026-06-10",
+    "title": "Cybersecurity Portfolio — Day 2: Hero Section, 3D Globe (HeroScene), About, Projects & Skills",
+    "summary": "Day 2 of the portfolio build.",
+    "tags": [
+      "Cryptography",
+      "Cybersecurity",
+      "PostgreSQL",
+      "Python",
+      "REST API",
+      "React",
+      "Salesforce",
+      "Salesforce Trailhead",
+      "Security",
+      "TypeScript"
+    ],
+    "difficulty": "Advanced",
+    "sourceFile": "10-06-2026.md",
+    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/10-06-2026.md",
+    "wordCount": 1893
   }
 ]

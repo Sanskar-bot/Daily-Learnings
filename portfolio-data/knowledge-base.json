@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-08T18:29:13.511Z",
-  "totalEntries": 35,
+  "generatedAt": "2026-06-08T19:24:05.871Z",
+  "totalEntries": 37,
   "entries": [
     {
       "id": "day-001",
@@ -84,7 +84,7 @@
       ],
       "difficulty": "Beginner",
       "links": [],
-      "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/May-05/02-09-05-2026.md"
+      "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/May-05/02-05-2026.md"
     },
     {
       "id": "day-004",
@@ -1344,6 +1344,127 @@
         }
       ],
       "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/08-06-2026.md"
+    },
+    {
+      "id": "day-036",
+      "date": "2026-06-09",
+      "title": "Cybersecurity Portfolio — Day 1: Tech Stack, Design System & Core Structure",
+      "summary": "Day 1 of building a production-grade cybersecurity portfolio from scratch.",
+      "concepts": [
+        "Bootstrapped the TanStack Start + Vite 7 + React 19 + TypeScript 5.8 project",
+        "Configured Tailwind CSS v4 with `@theme` directive and OKLCH design tokens",
+        "Defined the full color palette: `--background`, `--foreground`, `--primary` (neon cyan), `--accent` (neon magenta)",
+        "Set up Google Fonts: Space Grotesk (headings) and JetBrains Mono (body/code)",
+        "Implemented 4 semantic utility classes: `.text-gradient`, `.glass`, `.neon-border`, `.grid-bg`",
+        "Built `__root.tsx` with SEO meta tags (title, description, OG tags)",
+        "Built the Navbar with scroll-aware glass effect using passive scroll listener",
+        "Built the CustomCursor using `requestAnimationFrame` loop + `mix-blend-mode: difference`",
+        "Installed full shadcn/ui component library (Radix UI primitives)",
+        "Set up react-hook-form + zod, react-query, GSAP 3 + ScrollTrigger"
+      ],
+      "technologies": [
+        "CSS",
+        "JavaScript",
+        "Next.js",
+        "React",
+        "Salesforce Trailhead",
+        "TypeScript",
+        "Vite"
+      ],
+      "topics": [
+        "Cybersecurity Portfolio — Day 1: Tech Stack, Design System & Core Structure",
+        "Why TanStack Start over Next.js / Vite SPA?",
+        "Tailwind CSS v4 — The OKLCH Shift",
+        "Custom Utility Classes — The Reusable Layer",
+        "The  Layout — Global Providers",
+        "Navbar — Scroll-Aware Glass Effect",
+        "Custom Cursor — Zero-Lag via"
+      ],
+      "tags": [
+        "CSS",
+        "Cryptography",
+        "Cybersecurity",
+        "Full Stack",
+        "JavaScript",
+        "Next.js",
+        "Performance",
+        "React",
+        "Salesforce",
+        "Salesforce Trailhead",
+        "Security",
+        "TypeScript",
+        "Vite"
+      ],
+      "difficulty": "Advanced",
+      "links": [
+        {
+          "label": "**All Work & Notes — Google Drive**",
+          "url": "https://drive.google.com/drive/folders/1Mb9oE35tasgjPyafce1RXabL4UV8l6yQ?usp=sharing"
+        },
+        {
+          "label": "**Portfolio GitHub Repository**",
+          "url": "https://github.com/Sanskar-bot/portfolio"
+        }
+      ],
+      "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/09-06-2026.md"
+    },
+    {
+      "id": "day-037",
+      "date": "2026-06-10",
+      "title": "Cybersecurity Portfolio — Day 2: Hero Section, 3D Globe (HeroScene), About, Projects & Skills",
+      "summary": "Day 2 of the portfolio build.",
+      "concepts": [
+        "Built the Hero section: gradient name headline, monospace bio, 2 CTA buttons, 4-stat grid, animated scroll indicator",
+        "Built `HeroScene.tsx` — complete WebGL globe with IcosahedronGeometry wireframe at detail 4",
+        "Placed 25 real-world city nodes using spherical lat/lon → Cartesian coordinate transform",
+        "Generated Bézier arcs between the nearest 3 cities per node using `QuadraticBezierCurve3`",
+        "Animated 40 data packets traversing arcs per-frame in `useFrame()`, using a reusable `THREE.Object3D` dummy to avoid per-frame allocations",
+        "Implemented cursor speed tracking → arc opacity and globe rotation modulation",
+        "Built the About section with GSAP ScrollTrigger stagger reveal (`gsap.context()` for safe cleanup)",
+        "Built 3 glassmorphism info cards (Focus / Currently / Education)",
+        "Built the Projects section with 4 real project cards, scroll-in animations, hover lift, external link icon",
+        "Built the Skills section with 26 tools across 4 categories as neon-bordered monospace chips"
+      ],
+      "technologies": [
+        "PostgreSQL",
+        "Python",
+        "REST API",
+        "React",
+        "Salesforce Trailhead",
+        "TypeScript"
+      ],
+      "topics": [
+        "Cybersecurity Portfolio — Day 2: Hero Section, 3D Globe (HeroScene), About, Projects & Skills",
+        "Hero Section — Layout & Stats Grid",
+        "HeroScene — Custom WebGL Globe with Three.js",
+        "About Section — GSAP ScrollTrigger Stagger",
+        "Projects Section — 4 Project Cards",
+        "Skills Section — Flat Tile Grid"
+      ],
+      "tags": [
+        "Cryptography",
+        "Cybersecurity",
+        "PostgreSQL",
+        "Python",
+        "REST API",
+        "React",
+        "Salesforce",
+        "Salesforce Trailhead",
+        "Security",
+        "TypeScript"
+      ],
+      "difficulty": "Advanced",
+      "links": [
+        {
+          "label": "**All Work & Notes — Google Drive**",
+          "url": "https://drive.google.com/drive/folders/1Mb9oE35tasgjPyafce1RXabL4UV8l6yQ?usp=sharing"
+        },
+        {
+          "label": "**Portfolio GitHub Repository**",
+          "url": "https://github.com/Sanskar-bot/portfolio"
+        }
+      ],
+      "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/10-06-2026.md"
     }
   ]
 }
