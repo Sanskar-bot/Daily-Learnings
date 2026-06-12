@@ -684,5 +684,100 @@
     "sourceFile": "08-06-2026.md",
     "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/08-06-2026.md",
     "wordCount": 1345
+  },
+  {
+    "id": "day-036",
+    "date": "2026-06-09",
+    "title": "Cybersecurity Portfolio — Day 1: Tech Stack, Design System & Core Structure",
+    "summary": "Day 1 of building a production-grade cybersecurity portfolio from scratch. Chose TanStack Start + Vite 7 + React 19 + TypeScript 5.8 over Next.js for lean SSR with typed file-based routing. Set up Tailwind CSS v4 with @theme directive and OKLCH design tokens (neon cyan + magenta palette). Built the Navbar with scroll-aware glass effect using passive scroll listener and zero-lag custom cursor via requestAnimationFrame loop with mix-blend-mode: difference.",
+    "tags": [
+      "CSS",
+      "Frontend",
+      "GSAP",
+      "JavaScript",
+      "OKLCH",
+      "Portfolio",
+      "React",
+      "Tailwind CSS",
+      "TanStack",
+      "TypeScript",
+      "UI/UX",
+      "Vite",
+      "Web Development"
+    ],
+    "difficulty": "Advanced",
+    "sourceFile": "09-06-2026.md",
+    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/09-06-2026.md",
+    "wordCount": 2175
+  },
+  {
+    "id": "day-037",
+    "date": "2026-06-10",
+    "title": "Cybersecurity Portfolio — Day 2: Hero Section, 3D Globe (HeroScene), About, Projects & Skills",
+    "summary": "Day 2 of the portfolio build. Built every visible section of the single-page portfolio. Centrepiece: HeroScene.tsx — a fully custom WebGL globe with Three.js and React Three Fiber. Features 25 real-world city nodes (lat/lon to Cartesian transform), animated data packets on Bézier arcs, InstancedMesh for single draw-call rendering, and cursor speed reactivity via useFrame. Also built About section with GSAP ScrollTrigger stagger, Projects section with 4 real project cards, and Skills section with 26 tools.",
+    "tags": [
+      "CSS",
+      "Frontend",
+      "GSAP",
+      "JavaScript",
+      "Portfolio",
+      "React",
+      "Three.js",
+      "TypeScript",
+      "UI/UX",
+      "WebGL",
+      "Web Development"
+    ],
+    "difficulty": "Advanced",
+    "sourceFile": "10-06-2026.md",
+    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/10-06-2026.md",
+    "wordCount": 2890
+  },
+  {
+    "id": "day-038",
+    "date": "2026-06-11",
+    "title": "Cybersecurity Portfolio — Day 3: Light Mode Design Research & CSS Architecture",
+    "summary": "Day 3 of the portfolio build — designing a proper light mode for sanskarphougat.vercel.app. Researched why neon OKLCH accents must shift from high-lightness to mid-lightness for light backgrounds (WCAG contrast). Designed the full light-mode token set: off-white background oklch(0.97), near-black foreground, and teal-blue primary replacing neon cyan. Planned the [data-theme='light'] CSS cascade architecture, light-mode glassmorphism variant with increased blur radius, ThemeToggle component with localStorage persistence, and FOUT prevention strategy.",
+    "tags": [
+      "CSS",
+      "Frontend",
+      "JavaScript",
+      "OKLCH",
+      "Portfolio",
+      "React",
+      "TypeScript",
+      "UI/UX",
+      "WCAG",
+      "Web Development"
+    ],
+    "difficulty": "Intermediate",
+    "sourceFile": "11-06-2026.md",
+    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/11-06-2026.md",
+    "wordCount": 1890
+  },
+  {
+    "id": "day-039",
+    "date": "2026-06-12",
+    "title": "Cybersecurity Portfolio — Day 4: Light Mode Full Implementation & Vercel Deployment",
+    "summary": "Day 4 — full light mode implementation and deployment to sanskarphougat.vercel.app. Wrote the [data-theme='light'] CSS token block, glassmorphism/neon-border/grid-bg overrides, and global 0.3s transition for all properties. Built ThemeToggle.tsx with Sun/Moon icons, aria-label, localStorage persistence, and hover scale animation. Implemented FOUT prevention via inline <script> in <head> before stylesheets. Built useTheme hook using MutationObserver to reactively feed theme to Three.js WebGL globe materials. Deployed to Vercel — verified all 7 acceptance criteria live.",
+    "tags": [
+      "CSS",
+      "Frontend",
+      "JavaScript",
+      "MutationObserver",
+      "OKLCH",
+      "Portfolio",
+      "React",
+      "Three.js",
+      "TypeScript",
+      "UI/UX",
+      "Vercel",
+      "Web Development",
+      "WebGL"
+    ],
+    "difficulty": "Intermediate",
+    "sourceFile": "12-06-2026.md",
+    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/12-06-2026.md",
+    "wordCount": 2240
   }
 ]
