@@ -1,20 +1,21 @@
 {
-  "id": "day-035",
-  "date": "2026-06-08",
-  "title": "VaultZero — Day 3: Vault Operations, Recovery Phrase & Encoding Utilities",
-  "summary": "Day 3 of the 14-day VaultZero build.",
+  "id": "day-037",
+  "date": "2026-06-10",
+  "title": "Cybersecurity Portfolio — Day 2: Hero Section, 3D Globe (HeroScene), About, Projects & Skills",
+  "summary": "Day 2 of the portfolio build.",
   "tags": [
-    "AES-256-GCM",
-    "BIP-39",
-    "Backend",
-    "Encryption",
-    "Node.js",
-    "Password Manager",
+    "Cryptography",
+    "Cybersecurity",
+    "PostgreSQL",
+    "Python",
+    "REST API",
+    "React",
     "Salesforce",
     "Salesforce Trailhead",
+    "Security",
     "TypeScript"
   ],
   "difficulty": "Advanced",
-  "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/08-06-2026.md",
-  "generatedAt": "2026-06-08T18:29:13.506Z"
+  "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/10-06-2026.md",
+  "generatedAt": "2026-06-08T19:24:05.869Z"
 }

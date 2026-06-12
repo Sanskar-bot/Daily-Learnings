@@ -1,5 +1,65 @@
 [
   {
+    "id": "day-037",
+    "date": "2026-06-10",
+    "title": "Cybersecurity Portfolio — Day 2: Hero Section, 3D Globe (HeroScene), About, Projects & Skills",
+    "summary": "Day 2 of the portfolio build.",
+    "tags": [
+      "Cryptography",
+      "Cybersecurity",
+      "PostgreSQL",
+      "Python",
+      "REST API",
+      "React",
+      "Salesforce",
+      "Salesforce Trailhead",
+      "Security",
+      "TypeScript"
+    ],
+    "difficulty": "Advanced",
+    "technologies": [
+      "PostgreSQL",
+      "Python",
+      "REST API",
+      "React",
+      "Salesforce Trailhead",
+      "TypeScript"
+    ],
+    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/10-06-2026.md"
+  },
+  {
+    "id": "day-036",
+    "date": "2026-06-09",
+    "title": "Cybersecurity Portfolio — Day 1: Tech Stack, Design System & Core Structure",
+    "summary": "Day 1 of building a production-grade cybersecurity portfolio from scratch.",
+    "tags": [
+      "CSS",
+      "Cryptography",
+      "Cybersecurity",
+      "Full Stack",
+      "JavaScript",
+      "Next.js",
+      "Performance",
+      "React",
+      "Salesforce",
+      "Salesforce Trailhead",
+      "Security",
+      "TypeScript",
+      "Vite"
+    ],
+    "difficulty": "Advanced",
+    "technologies": [
+      "CSS",
+      "JavaScript",
+      "Next.js",
+      "React",
+      "Salesforce Trailhead",
+      "TypeScript",
+      "Vite"
+    ],
+    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/09-06-2026.md"
+  },
+  {
     "id": "day-035",
     "date": "2026-06-08",
     "title": "VaultZero — Day 3: Vault Operations, Recovery Phrase & Encoding Utilities",
@@ -236,55 +296,5 @@
       "Salesforce Trailhead"
     ],
     "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/May-05/26-05-2026.md"
-  },
-  {
-    "id": "day-028",
-    "date": "2026-06-01",
-    "title": "Weekly Learning Summary & AIIMS Mitigation Deep Dive",
-    "summary": "End of the week. All 3 personal projects completed.",
-    "tags": [
-      "CIA Triad",
-      "Cloud",
-      "Cybersecurity",
-      "Encryption",
-      "NIST",
-      "Networking",
-      "OSI Model",
-      "Ransomware",
-      "Salesforce",
-      "Salesforce Trailhead",
-      "Security",
-      "Testing"
-    ],
-    "difficulty": "Intermediate",
-    "technologies": [
-      "NIST",
-      "OSI Model",
-      "Salesforce Trailhead"
-    ],
-    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/01-06-2026.md"
-  },
-  {
-    "id": "day-011",
-    "date": "2026-05-15",
-    "title": "E2E Encryption Attack Lab — Day 6: Technical Report Writing",
-    "summary": "E2E Encryption Attack Lab — Day 6: Technical Report Writing > Project Context: Day 6. All code is complete. Today was dedicated to writing the full > technical report — translating the 5 days of implementation into a structured, academic-quality",
-    "tags": [
-      "AES-256-GCM",
-      "Authentication",
-      "CIA Triad",
-      "Encryption",
-      "HTTP/HTTPS",
-      "Salesforce",
-      "Salesforce Trailhead",
-      "Security"
-    ],
-    "difficulty": "Intermediate",
-    "technologies": [
-      "AES-256-GCM",
-      "HTTP/HTTPS",
-      "Salesforce Trailhead"
-    ],
-    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/May-05/15-05-2026.md"
   }
 ]

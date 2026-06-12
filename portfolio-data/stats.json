@@ -1,15 +1,15 @@
 {
-  "totalLearningDays": 35,
-  "totalTopics": 141,
-  "totalTags": 40,
-  "totalTechnologies": 23,
-  "totalWordsWritten": 21430,
+  "totalLearningDays": 37,
+  "totalTopics": 154,
+  "totalTags": 44,
+  "totalTechnologies": 26,
+  "totalWordsWritten": 24703,
   "difficultyBreakdown": {
     "Beginner": 14,
     "Intermediate": 17,
-    "Advanced": 4
+    "Advanced": 6
   },
   "firstEntry": "2026-04-30",
-  "lastUpdated": "2026-06-08",
-  "generatedAt": "2026-06-08T18:29:13.508Z"
+  "lastUpdated": "2026-06-10",
+  "generatedAt": "2026-06-08T19:24:05.870Z"
 }
