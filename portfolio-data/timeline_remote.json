@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "id": "day-001",
     "date": "2026-04-30",
@@ -17,8 +17,8 @@
   {
     "id": "day-002",
     "date": "2026-05-01",
-    "title": "Data Modeling — Salesforce Trailhead (Completed)",
-    "summary": "Data Modeling — Salesforce Trailhead (Completed) Module 1: Optimize Customer Data with Standard and Custom Objects Module 2: Create Object Relationships Module 3: Work with Schema Builder",
+    "title": "Data Modeling ΓÇö Salesforce Trailhead (Completed)",
+    "summary": "Data Modeling ΓÇö Salesforce Trailhead (Completed) Module 1: Optimize Customer Data with Standard and Custom Objects Module 2: Create Object Relationships Module 3: Work with Schema Builder",
     "tags": [
       "Data Modeling",
       "Salesforce",
@@ -32,8 +32,8 @@
   {
     "id": "day-003",
     "date": "2026-05-02",
-    "title": "Exam Preparation (May 02 – May 07)",
-    "summary": "Exam Preparation (May 02 – May 07) > No new technical modules or courses were completed during this period. > Full focus was on academic exam preparation. Cyber Peace Foundation — Interview Preparation (May 08 – May 09)",
+    "title": "Exam Preparation (May 02 ΓÇô May 07)",
+    "summary": "Exam Preparation (May 02 ΓÇô May 07) > No new technical modules or courses were completed during this period. > Full focus was on academic exam preparation. Cyber Peace Foundation ΓÇö Interview Preparation (May 08 ΓÇô May 09)",
     "tags": [
       "Cybersecurity",
       "Salesforce",
@@ -47,8 +47,8 @@
   {
     "id": "day-004",
     "date": "2026-05-08",
-    "title": "Interview Preparation — Cyber Peace Foundation",
-    "summary": "Interview Preparation — Cyber Peace Foundation Spent the day revising and consolidating topics from my learning journey and CV ahead of the Cyber Peace Foundation interview scheduled for May 09. Cybersecurity Core Concepts (Revised)",
+    "title": "Interview Preparation ΓÇö Cyber Peace Foundation",
+    "summary": "Interview Preparation ΓÇö Cyber Peace Foundation Spent the day revising and consolidating topics from my learning journey and CV ahead of the Cyber Peace Foundation interview scheduled for May 09. Cybersecurity Core Concepts (Revised)",
     "tags": [
       "Cybersecurity",
       "Encryption",
@@ -69,7 +69,7 @@
   {
     "id": "day-005",
     "date": "2026-05-09",
-    "title": "Cyber Peace Foundation — Interview Day 🎯",
+    "title": "Cyber Peace Foundation ΓÇö Interview Day ≡ƒÄ»",
     "summary": "Daily learning entry.",
     "tags": [
       "Cybersecurity",
@@ -86,8 +86,8 @@
   {
     "id": "day-006",
     "date": "2026-05-10",
-    "title": "E2E Encryption Attack Lab — Act 1: Plaintext Interception",
-    "summary": "E2E Encryption Attack Lab — Act 1: Plaintext Interception > Project Context: Building a 3-act MITM demonstration for the CyberPeace Foundation assignment. > Act 1 establishes the baseline — showing how unencrypted TCP traffic is trivially intercepted.",
+    "title": "E2E Encryption Attack Lab ΓÇö Act 1: Plaintext Interception",
+    "summary": "E2E Encryption Attack Lab ΓÇö Act 1: Plaintext Interception > Project Context: Building a 3-act MITM demonstration for the CyberPeace Foundation assignment. > Act 1 establishes the baseline ΓÇö showing how unencrypted TCP traffic is trivially intercepted.",
     "tags": [
       "AES-256-GCM",
       "Authentication",
@@ -109,8 +109,8 @@
   {
     "id": "day-007",
     "date": "2026-05-11",
-    "title": "E2E Encryption Attack Lab — Act 2 Base: RSA Key Exchange + AES-GCM Encryption",
-    "summary": "E2E Encryption Attack Lab — Act 2 Base: RSA Key Exchange + AES-GCM Encryption > Project Context: Day 2 of the MITM Lab. Today's goal was to add real encryption to Alice and Bob > so that Act 2 can demonstrate that encryption *alone* (without key verification) is not enough.",
+    "title": "E2E Encryption Attack Lab ΓÇö Act 2 Base: RSA Key Exchange + AES-GCM Encryption",
+    "summary": "E2E Encryption Attack Lab ΓÇö Act 2 Base: RSA Key Exchange + AES-GCM Encryption > Project Context: Day 2 of the MITM Lab. Today's goal was to add real encryption to Alice and Bob > so that Act 2 can demonstrate that encryption *alone* (without key verification) is not enough.",
     "tags": [
       "AES-256-GCM",
       "Authentication",
@@ -130,8 +130,8 @@
   {
     "id": "day-008",
     "date": "2026-05-12",
-    "title": "E2E Encryption Attack Lab — Act 2 Complete: MITM Key Swap",
-    "summary": "E2E Encryption Attack Lab — Act 2 Complete: MITM Key Swap > Project Context: Day 3. Today's goal was to build the actual attacker — a MITM proxy that > silently intercepts and decrypts the \"secure\" E2E conversation by swapping RSA public keys.",
+    "title": "E2E Encryption Attack Lab ΓÇö Act 2 Complete: MITM Key Swap",
+    "summary": "E2E Encryption Attack Lab ΓÇö Act 2 Complete: MITM Key Swap > Project Context: Day 3. Today's goal was to build the actual attacker ΓÇö a MITM proxy that > silently intercepts and decrypts the \"secure\" E2E conversation by swapping RSA public keys.",
     "tags": [
       "AES-256-GCM",
       "Encryption",
@@ -149,8 +149,8 @@
   {
     "id": "day-009",
     "date": "2026-05-13",
-    "title": "E2E Encryption Attack Lab — Act 3: Fingerprint Verification Defeats MITM",
-    "summary": "E2E Encryption Attack Lab — Act 3: Fingerprint Verification Defeats MITM > Project Context: Day 4. Today's goal was to implement the *defense* — showing how out-of-band > key fingerprint verification completely defeats the MITM key swap attack. This mirrors exactly",
+    "title": "E2E Encryption Attack Lab ΓÇö Act 3: Fingerprint Verification Defeats MITM",
+    "summary": "E2E Encryption Attack Lab ΓÇö Act 3: Fingerprint Verification Defeats MITM > Project Context: Day 4. Today's goal was to implement the *defense* ΓÇö showing how out-of-band > key fingerprint verification completely defeats the MITM key swap attack. This mirrors exactly",
     "tags": [
       "Cryptography",
       "Encryption",
@@ -166,8 +166,8 @@
   {
     "id": "day-010",
     "date": "2026-05-14",
-    "title": "E2E Encryption Attack Lab — Day 5: Live Attacker Dashboard",
-    "summary": "E2E Encryption Attack Lab — Day 5: Live Attacker Dashboard > Project Context: Day 5. The core attack demo is complete. Today's goal was to build a > professional live attacker dashboard — a real-time web UI that visualizes what the MITM",
+    "title": "E2E Encryption Attack Lab ΓÇö Day 5: Live Attacker Dashboard",
+    "summary": "E2E Encryption Attack Lab ΓÇö Day 5: Live Attacker Dashboard > Project Context: Day 5. The core attack demo is complete. Today's goal was to build a > professional live attacker dashboard ΓÇö a real-time web UI that visualizes what the MITM",
     "tags": [
       "Encryption",
       "Networking",
@@ -185,8 +185,8 @@
   {
     "id": "day-011",
     "date": "2026-05-15",
-    "title": "E2E Encryption Attack Lab — Day 6: Technical Report Writing",
-    "summary": "E2E Encryption Attack Lab — Day 6: Technical Report Writing > Project Context: Day 6. All code is complete. Today was dedicated to writing the full > technical report — translating the 5 days of implementation into a structured, academic-quality",
+    "title": "E2E Encryption Attack Lab ΓÇö Day 6: Technical Report Writing",
+    "summary": "E2E Encryption Attack Lab ΓÇö Day 6: Technical Report Writing > Project Context: Day 6. All code is complete. Today was dedicated to writing the full > technical report ΓÇö translating the 5 days of implementation into a structured, academic-quality",
     "tags": [
       "AES-256-GCM",
       "Authentication",
@@ -205,8 +205,8 @@
   {
     "id": "day-012",
     "date": "2026-05-16",
-    "title": "E2E Encryption Attack Lab — Day 7: Final Run, Cleanup & Submission",
-    "summary": "E2E Encryption Attack Lab — Day 7: Final Run, Cleanup & Submission > Project Context: Day 7 and final day. All three acts are working, the dashboard is live, > and the report is written. Today was about polish, reproducibility, and professional packaging",
+    "title": "E2E Encryption Attack Lab ΓÇö Day 7: Final Run, Cleanup & Submission",
+    "summary": "E2E Encryption Attack Lab ΓÇö Day 7: Final Run, Cleanup & Submission > Project Context: Day 7 and final day. All three acts are working, the dashboard is live, > and the report is written. Today was about polish, reproducibility, and professional packaging",
     "tags": [
       "AES-256-GCM",
       "Cybersecurity",
@@ -224,8 +224,8 @@
   {
     "id": "day-013",
     "date": "2026-05-17",
-    "title": "Exam Preparation — Mobile Communication (Exam: May 19, 2026)",
-    "summary": "Exam Preparation — Mobile Communication (Exam: May 19, 2026) > Full day dedicated to revising Mobile Communication syllabus ahead of Tuesday's exam. Unit 1 — Introduction to Mobile Communication Unit 2 — GSM (Global System for Mobile Communication)",
+    "title": "Exam Preparation ΓÇö Mobile Communication (Exam: May 19, 2026)",
+    "summary": "Exam Preparation ΓÇö Mobile Communication (Exam: May 19, 2026) > Full day dedicated to revising Mobile Communication syllabus ahead of Tuesday's exam. Unit 1 ΓÇö Introduction to Mobile Communication Unit 2 ΓÇö GSM (Global System for Mobile Communication)",
     "tags": [
       "Authentication",
       "Networking",
@@ -241,7 +241,7 @@
   {
     "id": "day-014",
     "date": "2026-05-18",
-    "title": "6th Semester Exam Preparation — Day 1",
+    "title": "6th Semester Exam Preparation ΓÇö Day 1",
     "summary": "6th semester exams begin tomorrow. Today was the final",
     "tags": [
       "Salesforce",
@@ -255,7 +255,7 @@
   {
     "id": "day-015",
     "date": "2026-05-19",
-    "title": "6th Semester Exams — Day 2 (Exam Day)",
+    "title": "6th Semester Exams ΓÇö Day 2 (Exam Day)",
     "summary": "First exam of 6th semester exam week.",
     "tags": [
       "Salesforce",
@@ -269,7 +269,7 @@
   {
     "id": "day-016",
     "date": "2026-05-20",
-    "title": "6th Semester Exams — Day 3 (Exam + Revision)",
+    "title": "6th Semester Exams ΓÇö Day 3 (Exam + Revision)",
     "summary": "Continuing through the 6th semester exam week.",
     "tags": [
       "Salesforce",
@@ -283,7 +283,7 @@
   {
     "id": "day-017",
     "date": "2026-05-21",
-    "title": "6th Semester Exams — Day 4 (Exam + Revision)",
+    "title": "6th Semester Exams ΓÇö Day 4 (Exam + Revision)",
     "summary": "Mid-way through the 6th semester exam week.",
     "tags": [
       "Salesforce",
@@ -297,7 +297,7 @@
   {
     "id": "day-018",
     "date": "2026-05-22",
-    "title": "6th Semester Exams — Day 5 (Exam + Revision)",
+    "title": "6th Semester Exams ΓÇö Day 5 (Exam + Revision)",
     "summary": "Nearing the end of the 6th semester exam week.",
     "tags": [
       "Salesforce",
@@ -311,7 +311,7 @@
   {
     "id": "day-019",
     "date": "2026-05-23",
-    "title": "6th Semester Exams — Day 6 (Final Exam Day) ✅",
+    "title": "6th Semester Exams ΓÇö Day 6 (Final Exam Day) Γ£à",
     "summary": "Last day of the 6th semester exam week.",
     "tags": [
       "Salesforce",
@@ -325,7 +325,7 @@
   {
     "id": "day-020",
     "date": "2026-05-24",
-    "title": "Cybersecurity Fundamentals — Self-Study Day",
+    "title": "Cybersecurity Fundamentals ΓÇö Self-Study Day",
     "summary": "Began a personal deep-dive into cybersecurity fundamentals.",
     "tags": [
       "CIA Triad",
@@ -347,7 +347,7 @@
   {
     "id": "day-021",
     "date": "2026-05-25",
-    "title": "Cybersecurity Deep Dive — Frameworks & Security Types",
+    "title": "Cybersecurity Deep Dive ΓÇö Frameworks & Security Types",
     "summary": "Continuing the personal cybersecurity study. Today's focus was on",
     "tags": [
       "Authentication",
@@ -368,7 +368,7 @@
   {
     "id": "day-022",
     "date": "2026-05-26",
-    "title": "Cybersecurity Study — Attack Types Deep Dive",
+    "title": "Cybersecurity Study ΓÇö Attack Types Deep Dive",
     "summary": "Continuing the personal cybersecurity study. Today's focus was entirely",
     "tags": [
       "AWS",
@@ -392,7 +392,7 @@
   {
     "id": "day-023",
     "date": "2026-05-27",
-    "title": "Cybersecurity Study — Attack Lifecycle & PPT Finalization",
+    "title": "Cybersecurity Study ΓÇö Attack Lifecycle & PPT Finalization",
     "summary": "Continuing personal cybersecurity study. Today's focus was on understanding",
     "tags": [
       "CIA Triad",
@@ -414,7 +414,7 @@
   {
     "id": "day-024",
     "date": "2026-05-28",
-    "title": "AIIMS Delhi Ransomware Attack — Case Study Research (Started)",
+    "title": "AIIMS Delhi Ransomware Attack ΓÇö Case Study Research (Started)",
     "summary": "After completing the Cybersecurity PPT, started a personal case study",
     "tags": [
       "CIA Triad",
@@ -435,7 +435,7 @@
     "id": "day-025",
     "date": "2026-05-29",
     "title": "AIIMS Case Study Completed & Network Protocols Study Started",
-    "summary": "Completed the AIIMS Delhi Ransomware case study report — attacker profile,",
+    "summary": "Completed the AIIMS Delhi Ransomware case study report ΓÇö attacker profile,",
     "tags": [
       "Authentication",
       "Cybersecurity",
@@ -456,7 +456,7 @@
   {
     "id": "day-026",
     "date": "2026-05-30",
-    "title": "Network Protocols & OSI Model — Study Completed ✓",
+    "title": "Network Protocols & OSI Model ΓÇö Study Completed Γ£ô",
     "summary": "Completed the deep dive into Network Protocols and the OSI Model.",
     "tags": [
       "Encryption",
@@ -475,7 +475,7 @@
   {
     "id": "day-027",
     "date": "2026-05-31",
-    "title": "Week Review — Consolidating Cybersecurity & Networking Knowledge",
+    "title": "Week Review ΓÇö Consolidating Cybersecurity & Networking Knowledge",
     "summary": "Weekend review day. All personal projects for the week are complete.",
     "tags": [
       "CIA Triad",
@@ -523,7 +523,7 @@
   {
     "id": "day-029",
     "date": "2026-06-02",
-    "title": "AIIMS Report — Why Hospitals Are Targeted",
+    "title": "AIIMS Report ΓÇö Why Hospitals Are Targeted",
     "summary": "Continuing the AIIMS Delhi ransomware case study.",
     "tags": [
       "Cybersecurity",
@@ -542,7 +542,7 @@
   {
     "id": "day-030",
     "date": "2026-06-03",
-    "title": "AIIMS Report — Major Global Healthcare Cyberattacks",
+    "title": "AIIMS Report ΓÇö Major Global Healthcare Cyberattacks",
     "summary": "Continuing the AIIMS Delhi ransomware case study.",
     "tags": [
       "Cybersecurity",
@@ -559,8 +559,8 @@
   {
     "id": "day-031",
     "date": "2026-06-04",
-    "title": "VaultZero — Zero-Knowledge Password Manager (Project Planning)",
-    "summary": "Starting a new personal project — VaultZero.",
+    "title": "VaultZero ΓÇö Zero-Knowledge Password Manager (Project Planning)",
+    "summary": "Starting a new personal project ΓÇö VaultZero.",
     "tags": [
       "AES-256-GCM",
       "Argon2id",
@@ -582,8 +582,8 @@
   {
     "id": "day-032",
     "date": "2026-06-05",
-    "title": "VaultZero — Cryptographic Architecture Research & Tech Stack Decisions",
-    "summary": "Day 0 of VaultZero — before writing a single line of code.",
+    "title": "VaultZero ΓÇö Cryptographic Architecture Research & Tech Stack Decisions",
+    "summary": "Day 0 of VaultZero ΓÇö before writing a single line of code.",
     "tags": [
       "AES-256-GCM",
       "Argon2id",
@@ -611,7 +611,7 @@
   {
     "id": "day-033",
     "date": "2026-06-06",
-    "title": "VaultZero — Day 1: Monorepo Scaffold, Prisma Schema & Repository Setup",
+    "title": "VaultZero ΓÇö Day 1: Monorepo Scaffold, Prisma Schema & Repository Setup",
     "summary": "Day 1 of the 14-day VaultZero build.",
     "tags": [
       "AES-256-GCM",
@@ -640,7 +640,7 @@
   {
     "id": "day-034",
     "date": "2026-06-07",
-    "title": "VaultZero — Day 2: Crypto Core — Argon2id, AES-256-GCM & Key Management",
+    "title": "VaultZero ΓÇö Day 2: Crypto Core ΓÇö Argon2id, AES-256-GCM & Key Management",
     "summary": "Day 2 of the 14-day VaultZero build.",
     "tags": [
       "AES-256-GCM",
@@ -667,7 +667,7 @@
   {
     "id": "day-035",
     "date": "2026-06-08",
-    "title": "VaultZero — Day 3: Vault Operations, Recovery Phrase & Encoding Utilities",
+    "title": "VaultZero ΓÇö Day 3: Vault Operations, Recovery Phrase & Encoding Utilities",
     "summary": "Day 3 of the 14-day VaultZero build.",
     "tags": [
       "AES-256-GCM",
@@ -688,7 +688,7 @@
   {
     "id": "day-036",
     "date": "2026-06-09",
-    "title": "Cybersecurity Portfolio — Day 1: Tech Stack, Design System & Core Structure",
+    "title": "Cybersecurity Portfolio ΓÇö Day 1: Tech Stack, Design System & Core Structure",
     "summary": "Day 1 of building a production-grade cybersecurity portfolio from scratch.",
     "tags": [
       "CSS",
@@ -713,7 +713,7 @@
   {
     "id": "day-037",
     "date": "2026-06-10",
-    "title": "Cybersecurity Portfolio — Day 2: Hero Section, 3D Globe (HeroScene), About, Projects & Skills",
+    "title": "Cybersecurity Portfolio ΓÇö Day 2: Hero Section, 3D Globe (HeroScene), About, Projects & Skills",
     "summary": "Day 2 of the portfolio build.",
     "tags": [
       "Cryptography",
@@ -731,98 +731,5 @@
     "sourceFile": "10-06-2026.md",
     "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/10-06-2026.md",
     "wordCount": 1893
-  },
-  {
-    "id": "day-038",
-    "date": "2026-06-11",
-    "title": "Cybersecurity Portfolio — Day 3: Light Mode — Design Research & CSS Architecture",
-    "summary": "Day 3 of the portfolio build.",
-    "tags": [
-      "CSS",
-      "Cybersecurity",
-      "JavaScript",
-      "React",
-      "Salesforce",
-      "Salesforce Trailhead",
-      "TypeScript"
-    ],
-    "difficulty": "Advanced",
-    "sourceFile": "11-06-2026.md",
-    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/11-06-2026.md",
-    "wordCount": 1121
-  },
-  {
-    "id": "day-039",
-    "date": "2026-06-12",
-    "title": "Cybersecurity Portfolio — Day 4: Light Mode — Full Implementation & Deployment",
-    "summary": "Day 4 of the portfolio build.",
-    "tags": [
-      "CSS",
-      "Cybersecurity",
-      "Node.js",
-      "Performance",
-      "React",
-      "Salesforce",
-      "Salesforce Trailhead",
-      "TypeScript"
-    ],
-    "difficulty": "Advanced",
-    "sourceFile": "12-06-2026.md",
-    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/12-06-2026.md",
-    "wordCount": 2240
-  },
-  {
-    "id": "day-040",
-    "date": "2026-06-13",
-    "title": "VaultZero — Railway Deployment: 6 Issues Debugged & Successfully Deployed",
-    "summary": "Deployed VaultZero's Fastify + Prisma + PostgreSQL backend to Railway. Encountered and resolved 6 production issues: (1) monorepo workspace packages not building in order — fixed with nixpacks.toml; (2) Prisma client not generated — fixed via postinstall script; (3) DB tables missing — fixed with prisma migrate deploy in start command; (4) 502 health check failure — fixed by reading process.env.PORT and binding to 0.0.0.0; (5) DATABASE_URL not injected — linked Railway Postgres service in dashboard; (6) native argon2 binary architecture mismatch — fixed .gitignore and untracked committed node_modules. All 4 core API endpoints verified live on Railway.",
-    "tags": [
-      "Argon2id",
-      "Backend",
-      "Cloud",
-      "Cryptography",
-      "Debugging",
-      "DevOps",
-      "Docker",
-      "Encryption",
-      "Fastify",
-      "JWT",
-      "Node.js",
-      "Password Manager",
-      "PostgreSQL",
-      "Prisma",
-      "Railway",
-      "Security",
-      "TypeScript",
-      "npm"
-    ],
-    "difficulty": "Advanced",
-    "sourceFile": "13-06-2026.md",
-    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/13-06-2026.md",
-    "wordCount": 1820
-  },
-  {
-    "id": "day-041",
-    "date": "2026-06-14",
-    "title": "Kali Linux Dual Boot Installation & GoPhish — First Look",
-    "summary": "Set up a native offensive security lab by installing Kali Linux in dual boot alongside Windows using UEFI/GRUB with manual partitioning (80 GB — 70 GB root + 8 GB swap). Pre-install checklist: disabled BitLocker, Secure Boot, Fast Startup, verified ISO SHA256. Installed full Kali tool suite (kali-linux-everything). First look at GoPhish v0.12.1 — open-source phishing simulation framework. Explored the full dashboard: Users & Groups, Email Templates, Landing Pages, Sending Profiles, Campaigns. Understood the full campaign lifecycle (send → track open → track click → capture submission) and inspected the REST API and config.json. All exploration local-only.",
-    "tags": [
-      "Cybersecurity",
-      "GoPhish",
-      "GRUB",
-      "Kali Linux",
-      "Linux",
-      "Networking",
-      "Offensive Security",
-      "Open Source",
-      "Phishing",
-      "Red Team",
-      "Security",
-      "Security Awareness"
-    ],
-    "difficulty": "Intermediate",
-    "sourceFile": "14-06-2026.md",
-    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/14-06-2026.md",
-    "wordCount": 1560
   }
 ]
