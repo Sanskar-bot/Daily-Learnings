@@ -1,21 +1,19 @@
 {
-  "id": "day-037",
-  "date": "2026-06-10",
-  "title": "Cybersecurity Portfolio — Day 2: Hero Section, 3D Globe (HeroScene), About, Projects & Skills",
-  "summary": "Day 2 of the portfolio build.",
+  "id": "day-039",
+  "date": "2026-06-12",
+  "title": "Cybersecurity Portfolio — Day 4: Light Mode — Full Implementation & Deployment",
+  "summary": "Day 4 of the portfolio build.",
   "tags": [
-    "Cryptography",
+    "CSS",
     "Cybersecurity",
-    "PostgreSQL",
-    "Python",
-    "REST API",
+    "Node.js",
+    "Performance",
     "React",
     "Salesforce",
     "Salesforce Trailhead",
-    "Security",
     "TypeScript"
   ],
   "difficulty": "Advanced",
-  "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/10-06-2026.md",
-  "generatedAt": "2026-06-08T19:24:05.869Z"
+  "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/12-06-2026.md",
+  "generatedAt": "2026-06-12T17:14:56.474Z"
 }
