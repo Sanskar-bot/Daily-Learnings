@@ -285,25 +285,35 @@
     "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/06-06-2026.md"
   },
   {
-    "id": "day-026",
-    "date": "2026-05-30",
-    "title": "Network Protocols & OSI Model — Study Completed ✓",
-    "summary": "Completed the deep dive into Network Protocols and the OSI Model.",
+    "id": "day-041",
+    "date": "2026-06-14",
+    "title": "Kali Linux — Dual Boot Installation & GoPhish First Look",
+    "summary": "Shifted gears today from VaultZero development to building a proper local offensive",
     "tags": [
+      "Authentication",
+      "Backend",
+      "Bash",
       "Encryption",
       "HTTP/HTTPS",
+      "Linux",
       "Networking",
-      "OSI Model",
+      "Open Source",
+      "Penetration Testing",
       "Performance",
+      "REST API",
       "Salesforce",
-      "Salesforce Trailhead"
+      "Salesforce Trailhead",
+      "Security",
+      "Testing"
     ],
     "difficulty": "Intermediate",
     "technologies": [
+      "Bash",
       "HTTP/HTTPS",
-      "OSI Model",
+      "Linux",
+      "REST API",
       "Salesforce Trailhead"
     ],
-    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/May-05/30-05-2026.md"
+    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/14-06-2026.md"
   }
 ]

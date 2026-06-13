@@ -1,28 +1,26 @@
 {
-  "id": "day-040",
-  "date": "2026-06-13",
-  "title": "VaultZero — Railway Deployment: Debugging & Going Live",
-  "summary": "VaultZero's backend is a TypeScript monorepo (`@vaultzero/backend`) built on",
+  "id": "day-041",
+  "date": "2026-06-14",
+  "title": "Kali Linux — Dual Boot Installation & GoPhish First Look",
+  "summary": "Shifted gears today from VaultZero development to building a proper local offensive",
   "tags": [
-    "AI/ML",
-    "Argon2id",
     "Authentication",
     "Backend",
+    "Bash",
     "Encryption",
-    "JSON",
-    "JWT",
+    "HTTP/HTTPS",
     "Linux",
     "Networking",
-    "Node.js",
-    "Password Manager",
-    "PostgreSQL",
-    "Redis",
+    "Open Source",
+    "Penetration Testing",
+    "Performance",
+    "REST API",
     "Salesforce",
     "Salesforce Trailhead",
-    "TypeScript",
-    "npm"
+    "Security",
+    "Testing"
   ],
-  "difficulty": "Advanced",
-  "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/13-06-2026.md",
-  "generatedAt": "2026-06-13T17:09:14.363Z"
+  "difficulty": "Intermediate",
+  "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/14-06-2026.md",
+  "generatedAt": "2026-06-13T17:12:43.015Z"
 }
