@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-12T17:14:56.475Z",
-  "totalEntries": 39,
+  "generatedAt": "2026-06-13T17:09:14.364Z",
+  "totalEntries": 40,
   "entries": [
     {
       "id": "day-001",
@@ -1574,6 +1574,77 @@
         }
       ],
       "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/12-06-2026.md"
+    },
+    {
+      "id": "day-040",
+      "date": "2026-06-13",
+      "title": "VaultZero — Railway Deployment: Debugging & Going Live",
+      "summary": "VaultZero's backend is a TypeScript monorepo (`@vaultzero/backend`) built on",
+      "concepts": [
+        "Configured `nixpacks.toml` for monorepo build ordering on Railway",
+        "Fixed Prisma client generation via `postinstall` script",
+        "Applied production migrations with `prisma migrate deploy` in the start command",
+        "Fixed port binding: `process.env.PORT` + `host: '0.0.0.0'` for container networking",
+        "Linked Railway's managed PostgreSQL service to the backend via variable references",
+        "Fixed `.gitignore` to exclude nested `node_modules` and prevent architecture mismatches",
+        "Diagnosed 6 production deployment issues iteratively using AI as a debugging partner",
+        "Verified all 4 core API endpoints on the live Railway URL"
+      ],
+      "technologies": [
+        "Argon2id",
+        "JSON",
+        "JWT",
+        "Linux",
+        "Node.js",
+        "PostgreSQL",
+        "Redis",
+        "Salesforce Trailhead",
+        "TypeScript",
+        "npm"
+      ],
+      "topics": [
+        "VaultZero — Railway Deployment: Debugging & Going Live",
+        "What Is Railway?",
+        "Issue 1 — Build Failing:",
+        "Issue 2 —  Not Running Before the Server Starts",
+        "Issue 3 — Database Migration Not Applied: Tables Don't Exist",
+        "Issue 4 — Port Binding: Server Not Accessible",
+        "Issue 5 —  Missing: Environment Variable Not Linked",
+        "Issue 6 — Argon2id Native Binary: Build Architecture Mismatch",
+        "Final Deployment — Live ✅",
+        "Key Lessons — Deploying a TypeScript Monorepo to Railway"
+      ],
+      "tags": [
+        "AI/ML",
+        "Argon2id",
+        "Authentication",
+        "Backend",
+        "Encryption",
+        "JSON",
+        "JWT",
+        "Linux",
+        "Networking",
+        "Node.js",
+        "Password Manager",
+        "PostgreSQL",
+        "Redis",
+        "Salesforce",
+        "Salesforce Trailhead",
+        "TypeScript",
+        "npm"
+      ],
+      "difficulty": "Advanced",
+      "links": [
+        {
+          "label": "**All Work & Notes — Google Drive**",
+          "url": "https://drive.google.com/drive/folders/1Mb9oE35tasgjPyafce1RXabL4UV8l6yQ?usp=sharing"
+        },
+        {
+          "label": "**VaultZero GitHub Repository**",
+          "url": "https://github.com/Sanskar-bot/VaultZero"
+        }
+      ],
+      "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/13-06-2026.md"
     }
   ]
 }

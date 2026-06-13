@@ -28,6 +28,45 @@
     "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/10-06-2026.md"
   },
   {
+    "id": "day-040",
+    "date": "2026-06-13",
+    "title": "VaultZero — Railway Deployment: Debugging & Going Live",
+    "summary": "VaultZero's backend is a TypeScript monorepo (`@vaultzero/backend`) built on",
+    "tags": [
+      "AI/ML",
+      "Argon2id",
+      "Authentication",
+      "Backend",
+      "Encryption",
+      "JSON",
+      "JWT",
+      "Linux",
+      "Networking",
+      "Node.js",
+      "Password Manager",
+      "PostgreSQL",
+      "Redis",
+      "Salesforce",
+      "Salesforce Trailhead",
+      "TypeScript",
+      "npm"
+    ],
+    "difficulty": "Advanced",
+    "technologies": [
+      "Argon2id",
+      "JSON",
+      "JWT",
+      "Linux",
+      "Node.js",
+      "PostgreSQL",
+      "Redis",
+      "Salesforce Trailhead",
+      "TypeScript",
+      "npm"
+    ],
+    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/13-06-2026.md"
+  },
+  {
     "id": "day-036",
     "date": "2026-06-09",
     "title": "Cybersecurity Portfolio — Day 1: Tech Stack, Design System & Core Structure",
@@ -266,28 +305,5 @@
       "Salesforce Trailhead"
     ],
     "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/May-05/30-05-2026.md"
-  },
-  {
-    "id": "day-012",
-    "date": "2026-05-16",
-    "title": "E2E Encryption Attack Lab — Day 7: Final Run, Cleanup & Submission",
-    "summary": "E2E Encryption Attack Lab — Day 7: Final Run, Cleanup & Submission > Project Context: Day 7 and final day. All three acts are working, the dashboard is live, > and the report is written. Today was about polish, reproducibility, and professional packaging",
-    "tags": [
-      "AES-256-GCM",
-      "Cybersecurity",
-      "Encryption",
-      "HTTP/HTTPS",
-      "Python",
-      "Salesforce",
-      "Salesforce Trailhead"
-    ],
-    "difficulty": "Intermediate",
-    "technologies": [
-      "AES-256-GCM",
-      "HTTP/HTTPS",
-      "Python",
-      "Salesforce Trailhead"
-    ],
-    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/May-05/16-05-2026.md"
   }
 ]
