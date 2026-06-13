@@ -1,19 +1,28 @@
 {
-  "id": "day-039",
-  "date": "2026-06-12",
-  "title": "Cybersecurity Portfolio — Day 4: Light Mode — Full Implementation & Deployment",
-  "summary": "Day 4 of the portfolio build.",
+  "id": "day-040",
+  "date": "2026-06-13",
+  "title": "VaultZero — Railway Deployment: Debugging & Going Live",
+  "summary": "VaultZero's backend is a TypeScript monorepo (`@vaultzero/backend`) built on",
   "tags": [
-    "CSS",
-    "Cybersecurity",
+    "AI/ML",
+    "Argon2id",
+    "Authentication",
+    "Backend",
+    "Encryption",
+    "JSON",
+    "JWT",
+    "Linux",
+    "Networking",
     "Node.js",
-    "Performance",
-    "React",
+    "Password Manager",
+    "PostgreSQL",
+    "Redis",
     "Salesforce",
     "Salesforce Trailhead",
-    "TypeScript"
+    "TypeScript",
+    "npm"
   ],
   "difficulty": "Advanced",
-  "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/12-06-2026.md",
-  "generatedAt": "2026-06-12T17:14:56.474Z"
+  "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/13-06-2026.md",
+  "generatedAt": "2026-06-13T17:09:14.363Z"
 }
