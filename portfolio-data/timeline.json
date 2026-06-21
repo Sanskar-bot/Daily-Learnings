@@ -826,5 +826,26 @@
     "sourceFile": "14-06-2026.md",
     "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/14-06-2026.md",
     "wordCount": 1560
+  },
+  {
+    "id": "day-042",
+    "date": "2026-06-21",
+    "title": "PassGuard — Browser Extension UI & Architecture",
+    "summary": "Building PassGuard, a browser extension for password management and security.",
+    "tags": [
+      "Argon2id",
+      "Authentication",
+      "Encryption",
+      "JavaScript",
+      "Password Manager",
+      "React",
+      "Salesforce",
+      "Salesforce Trailhead",
+      "Security"
+    ],
+    "difficulty": "Advanced",
+    "sourceFile": "21-06-2026.md",
+    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/21-06-2026.md",
+    "wordCount": 937
   }
 ]

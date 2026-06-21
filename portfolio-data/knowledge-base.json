@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-13T17:12:43.017Z",
-  "totalEntries": 41,
+  "generatedAt": "2026-06-21T18:27:42.487Z",
+  "totalEntries": 42,
   "entries": [
     {
       "id": "day-001",
@@ -1691,6 +1691,43 @@
       "difficulty": "Intermediate",
       "links": [],
       "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/14-06-2026.md"
+    },
+    {
+      "id": "day-042",
+      "date": "2026-06-21",
+      "title": "PassGuard — Browser Extension UI & Architecture",
+      "summary": "Building PassGuard, a browser extension for password management and security.",
+      "concepts": [
+        "Understood Manifest V3 extension architecture — popup, background service worker, content script contexts",
+        "Implemented the `chrome.runtime.sendMessage` / `onMessage` pattern with async `return true` fix",
+        "Designed `chrome.storage.local` vs `chrome.storage.sync` split for vault vs preferences",
+        "Built password entropy calculator using `log₂(pool^length)` formula with 4 character-class detection",
+        "Implemented timestamp-based auto-lock that survives service worker restarts",
+        "Structured the PassGuard popup shell: auth layer → vault view → generator → settings"
+      ],
+      "technologies": [
+        "Argon2id",
+        "JavaScript",
+        "React",
+        "Salesforce Trailhead"
+      ],
+      "topics": [
+        "PassGuard — Browser Extension UI & Architecture"
+      ],
+      "tags": [
+        "Argon2id",
+        "Authentication",
+        "Encryption",
+        "JavaScript",
+        "Password Manager",
+        "React",
+        "Salesforce",
+        "Salesforce Trailhead",
+        "Security"
+      ],
+      "difficulty": "Advanced",
+      "links": [],
+      "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/21-06-2026.md"
     }
   ]
 }
