@@ -1,5 +1,5 @@
 {
-  "id": "day-042",
+  "id": "day-048",
   "date": "2026-06-21",
   "title": "PassGuard — Browser Extension UI & Architecture",
   "summary": "Building PassGuard, a browser extension for password management and security.",
@@ -16,5 +16,5 @@
   ],
   "difficulty": "Advanced",
   "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/21-06-2026.md",
-  "generatedAt": "2026-06-21T18:27:42.485Z"
+  "generatedAt": "2026-06-21T18:37:49.619Z"
 }

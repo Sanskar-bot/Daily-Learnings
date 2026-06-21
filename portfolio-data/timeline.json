@@ -829,6 +829,117 @@
   },
   {
     "id": "day-042",
+    "date": "2026-06-15",
+    "title": "PassGuard — Day 15: Breach Detection via HaveIBeenPwned k-Anonymity API",
+    "summary": "Day 15 of the PassGuard build. The 14-day core arc is done — the analyzer,",
+    "tags": [
+      "Backend",
+      "Cryptography",
+      "JavaScript",
+      "Networking",
+      "Salesforce",
+      "Salesforce Trailhead",
+      "Security",
+      "WebCrypto API"
+    ],
+    "difficulty": "Advanced",
+    "sourceFile": "15-06-2026.md",
+    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/15-06-2026.md",
+    "wordCount": 1485
+  },
+  {
+    "id": "day-043",
+    "date": "2026-06-16",
+    "title": "PassGuard — Day 16: Web Worker Offloading & Performance Profiling",
+    "summary": "Day 16 of the PassGuard build. After shipping the HIBP breach check yesterday,",
+    "tags": [
+      "JavaScript",
+      "Performance",
+      "Salesforce",
+      "Salesforce Trailhead"
+    ],
+    "difficulty": "Advanced",
+    "sourceFile": "16-06-2026.md",
+    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/16-06-2026.md",
+    "wordCount": 1154
+  },
+  {
+    "id": "day-044",
+    "date": "2026-06-17",
+    "title": "PassGuard — Day 17: Firefox & Edge Compatibility (Cross-Browser MV3)",
+    "summary": "Day 17 of the PassGuard build. The extension runs flawlessly on Chrome. But Chrome's",
+    "tags": [
+      "JavaScript",
+      "Node.js",
+      "Salesforce",
+      "Salesforce Trailhead"
+    ],
+    "difficulty": "Intermediate",
+    "sourceFile": "17-06-2026.md",
+    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/17-06-2026.md",
+    "wordCount": 1248
+  },
+  {
+    "id": "day-045",
+    "date": "2026-06-18",
+    "title": "PassGuard — Day 18: Passphrase Generator & Diceware",
+    "summary": "Day 18 of the PassGuard build. The context-aware password generator (Day 11) produces",
+    "tags": [
+      "Cryptography",
+      "JavaScript",
+      "NIST",
+      "Salesforce",
+      "Salesforce Trailhead"
+    ],
+    "difficulty": "Advanced",
+    "sourceFile": "18-06-2026.md",
+    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/18-06-2026.md",
+    "wordCount": 1315
+  },
+  {
+    "id": "day-046",
+    "date": "2026-06-19",
+    "title": "PassGuard — Day 19: Content Security Policy, Shadow DOM Hardening & XSS Defense",
+    "summary": "Day 19 of the PassGuard build. The extension's content script injects a widget",
+    "tags": [
+      "JSON",
+      "JavaScript",
+      "Salesforce",
+      "Salesforce Trailhead",
+      "Security"
+    ],
+    "difficulty": "Advanced",
+    "sourceFile": "19-06-2026.md",
+    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/19-06-2026.md",
+    "wordCount": 1291
+  },
+  {
+    "id": "day-047",
+    "date": "2026-06-20",
+    "title": "PassGuard — Day 20: Project Retrospective, Metrics & What's Next",
+    "summary": "Day 20 of the PassGuard build arc. The core product shipped on Day 14. Days 15–19",
+    "tags": [
+      "AES-256-GCM",
+      "Backend",
+      "Cloud",
+      "Encryption",
+      "JavaScript",
+      "NIST",
+      "Password Manager",
+      "Performance",
+      "Salesforce",
+      "Salesforce Trailhead",
+      "Security",
+      "Testing",
+      "WebCrypto API"
+    ],
+    "difficulty": "Advanced",
+    "sourceFile": "20-06-2026.md",
+    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/20-06-2026.md",
+    "wordCount": 1596
+  },
+  {
+    "id": "day-048",
     "date": "2026-06-21",
     "title": "PassGuard — Browser Extension UI & Architecture",
     "summary": "Building PassGuard, a browser extension for password management and security.",

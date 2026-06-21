@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-21T18:27:42.487Z",
-  "totalEntries": 42,
+  "generatedAt": "2026-06-21T18:37:49.621Z",
+  "totalEntries": 48,
   "entries": [
     {
       "id": "day-001",
@@ -1694,6 +1694,206 @@
     },
     {
       "id": "day-042",
+      "date": "2026-06-15",
+      "title": "PassGuard — Day 15: Breach Detection via HaveIBeenPwned k-Anonymity API",
+      "summary": "Day 15 of the PassGuard build. The 14-day core arc is done — the analyzer,",
+      "concepts": [
+        "Understood the k-Anonymity model for privacy-preserving breach database lookups",
+        "Implemented `checkBreach()` in `shared/breach.js` using `crypto.subtle.digest('SHA-1', ...)` — no library, no backend",
+        "Added breach penalty tiers to `scorer.js` (−10 to −60 pts based on breach count)",
+        "Integrated the breach check as an async \"fire and update\" in `app.js` so the UI never blocks on network",
+        "Added prefix-level LRU cache in the extension's background service worker to avoid redundant API calls",
+        "Added `Add-Padding` header to prevent response-size traffic analysis"
+      ],
+      "technologies": [
+        "JavaScript",
+        "Salesforce Trailhead",
+        "WebCrypto API"
+      ],
+      "topics": [
+        "PassGuard — Day 15: Breach Detection via HaveIBeenPwned k-Anonymity API"
+      ],
+      "tags": [
+        "Backend",
+        "Cryptography",
+        "JavaScript",
+        "Networking",
+        "Salesforce",
+        "Salesforce Trailhead",
+        "Security",
+        "WebCrypto API"
+      ],
+      "difficulty": "Advanced",
+      "links": [],
+      "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/15-06-2026.md"
+    },
+    {
+      "id": "day-043",
+      "date": "2026-06-16",
+      "title": "PassGuard — Day 16: Web Worker Offloading & Performance Profiling",
+      "summary": "Day 16 of the PassGuard build. After shipping the HIBP breach check yesterday,",
+      "concepts": [
+        "Profiled the main-thread blocking with Chrome DevTools Performance panel — identified Trie scan (34ms) and personal dict generation (48ms) as the two offenders",
+        "Implemented `analysis.worker.js` — a single long-lived Web Worker that handles all CPU-bound analysis off the main thread",
+        "Added a request-ID discard pattern to prevent stale Worker responses from overwriting newer UI state",
+        "Refactored `app.js` to use `postMessage` / `onmessage` with a parallel async breach check",
+        "Measured the after: main-thread blocking reduced from ~87ms to ~0.3ms per keystroke, 0 dropped animation frames",
+        "Registered the new worker in `web_accessible_resources` for the extension content script context"
+      ],
+      "technologies": [
+        "JavaScript",
+        "Salesforce Trailhead"
+      ],
+      "topics": [
+        "PassGuard — Day 16: Web Worker Offloading & Performance Profiling"
+      ],
+      "tags": [
+        "JavaScript",
+        "Performance",
+        "Salesforce",
+        "Salesforce Trailhead"
+      ],
+      "difficulty": "Advanced",
+      "links": [],
+      "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/16-06-2026.md"
+    },
+    {
+      "id": "day-044",
+      "date": "2026-06-17",
+      "title": "PassGuard — Day 17: Firefox & Edge Compatibility (Cross-Browser MV3)",
+      "summary": "Day 17 of the PassGuard build. The extension runs flawlessly on Chrome. But Chrome's",
+      "concepts": [
+        "Mapped every MV3 incompatibility between Chrome, Firefox, and Edge that affects PassGuard",
+        "Fixed module worker incompatibility: refactored `analysis.worker.js` to use `importScripts`, and added a dual-export pattern to all shared modules",
+        "Built `sessionStore.js` — a `chrome.storage.session` polyfill for Firefox using local storage + session timestamp expiry",
+        "Added `browserCompat.js` as a centralized feature-detection utility",
+        "Tested the extension on Firefox 127 (Developer Edition) and Edge 125 — all features working",
+        "Edge: sideloaded, all features identical to Chrome"
+      ],
+      "technologies": [
+        "JavaScript",
+        "Node.js",
+        "Salesforce Trailhead"
+      ],
+      "topics": [
+        "PassGuard — Day 17: Firefox & Edge Compatibility (Cross-Browser MV3)"
+      ],
+      "tags": [
+        "JavaScript",
+        "Node.js",
+        "Salesforce",
+        "Salesforce Trailhead"
+      ],
+      "difficulty": "Intermediate",
+      "links": [],
+      "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/17-06-2026.md"
+    },
+    {
+      "id": "day-045",
+      "date": "2026-06-18",
+      "title": "PassGuard — Day 18: Passphrase Generator & Diceware",
+      "summary": "Day 18 of the PassGuard build. The context-aware password generator (Day 11) produces",
+      "concepts": [
+        "Understood the mathematics of passphrase entropy: 5 EFF words = 64.6 bits, comparable to a 10-char complex password but far more memorable",
+        "Implemented `generatePassphrase()` in `shared/passphraseGenerator.js` with rejection-sampling randomness, configurable word count, separator, capitalization, and optional number/symbol",
+        "Factored `secureRandomIndex()` into a shared `secureRandom.js` utility (removed duplication from Day 9's generator)",
+        "Added passphrase mode to the UI with bits-of-entropy as the primary display metric",
+        "Fixed the scorer: added `isPassphrase` flag to bypass the wordlist penalty that would incorrectly penalize intentional dictionary words",
+        "Integrated `estimateCrackTimes()` with the passphrase entropy output — no changes needed to that module"
+      ],
+      "technologies": [
+        "JavaScript",
+        "NIST",
+        "Salesforce Trailhead"
+      ],
+      "topics": [
+        "PassGuard — Day 18: Passphrase Generator & Diceware"
+      ],
+      "tags": [
+        "Cryptography",
+        "JavaScript",
+        "NIST",
+        "Salesforce",
+        "Salesforce Trailhead"
+      ],
+      "difficulty": "Advanced",
+      "links": [],
+      "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/18-06-2026.md"
+    },
+    {
+      "id": "day-046",
+      "date": "2026-06-19",
+      "title": "PassGuard — Day 19: Content Security Policy, Shadow DOM Hardening & XSS Defense",
+      "summary": "Day 19 of the PassGuard build. The extension's content script injects a widget",
+      "concepts": [
+        "Threat-modelled the content script injection context: CSS bleed, DOM clobbering, prototype pollution, XSS via innerHTML, event hijacking",
+        "Switched Shadow DOM from `mode: 'open'` to `mode: 'closed'` — host page JS can no longer reach the widget's internal DOM",
+        "Implemented trusted-reference caching at `document_start` to protect `window.crypto`, `window.fetch`, and core prototype methods from host-page replacement",
+        "Audited all `innerHTML` usage in the widget — replaced 3 dynamic insertions with `textContent` / `createElement` equivalents",
+        "Defined a strict `content_security_policy` in `manifest.json` with `connect-src` limited to HIBP's API domain",
+        "Understood the interaction between `run_at: document_start` and trusted reference capture timing"
+      ],
+      "technologies": [
+        "JSON",
+        "JavaScript",
+        "Salesforce Trailhead"
+      ],
+      "topics": [
+        "PassGuard — Day 19: Content Security Policy, Shadow DOM Hardening & XSS Defense"
+      ],
+      "tags": [
+        "JSON",
+        "JavaScript",
+        "Salesforce",
+        "Salesforce Trailhead",
+        "Security"
+      ],
+      "difficulty": "Advanced",
+      "links": [],
+      "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/19-06-2026.md"
+    },
+    {
+      "id": "day-047",
+      "date": "2026-06-20",
+      "title": "PassGuard — Day 20: Project Retrospective, Metrics & What's Next",
+      "summary": "Day 20 of the PassGuard build arc. The core product shipped on Day 14. Days 15–19",
+      "concepts": [
+        "Compiled final project metrics: 43 files, ~7,900 lines, zero dependencies, 0.3ms main-thread cost per keystroke",
+        "Validated the scorer against 40 real-world passwords — 100% correct category assignment",
+        "Retrospective: analyzed the three architectural decisions I'd make differently (worker design, cross-browser testing, false-positive prioritization)",
+        "Planned PassGuard v2 feature roadmap across three priority tiers: password history, encrypted export, auto-fill, sync, TOTP, accessibility, Markov attack simulation, offline breach cache"
+      ],
+      "technologies": [
+        "AES-256-GCM",
+        "JavaScript",
+        "NIST",
+        "Salesforce Trailhead",
+        "WebCrypto API"
+      ],
+      "topics": [
+        "PassGuard — Day 20: Project Retrospective, Metrics & What's Next"
+      ],
+      "tags": [
+        "AES-256-GCM",
+        "Backend",
+        "Cloud",
+        "Encryption",
+        "JavaScript",
+        "NIST",
+        "Password Manager",
+        "Performance",
+        "Salesforce",
+        "Salesforce Trailhead",
+        "Security",
+        "Testing",
+        "WebCrypto API"
+      ],
+      "difficulty": "Advanced",
+      "links": [],
+      "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/20-06-2026.md"
+    },
+    {
+      "id": "day-048",
       "date": "2026-06-21",
       "title": "PassGuard — Browser Extension UI & Architecture",
       "summary": "Building PassGuard, a browser extension for password management and security.",
