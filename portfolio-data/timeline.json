@@ -958,5 +958,72 @@
     "sourceFile": "21-06-2026.md",
     "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/21-06-2026.md",
     "wordCount": 937
+  },
+  {
+    "id": "day-049",
+    "date": "2026-06-22",
+    "title": "MedVault — Allergy Safety Engine, 7-Section Health Record Page & UI Polish",
+    "summary": "Building MedVault, a decentralised, end-to-end encrypted healthcare data platform.",
+    "tags": [
+      "Authentication",
+      "Backend",
+      "Encryption",
+      "Frontend",
+      "HTML",
+      "JavaScript",
+      "Python",
+      "SQL",
+      "Salesforce",
+      "Salesforce Trailhead"
+    ],
+    "difficulty": "Intermediate",
+    "sourceFile": "22-06-2026.md",
+    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/22-06-2026.md",
+    "wordCount": 1098
+  },
+  {
+    "id": "day-050",
+    "date": "2026-06-23",
+    "title": "MedVault — System Architecture Deep-Dive: Decentralised Data Flow & Access Control Model",
+    "summary": "Day 2 on MedVault. After shipping three features yesterday (allergy safety,",
+    "tags": [
+      "AES-256-GCM",
+      "Cryptography",
+      "Encryption",
+      "Frontend",
+      "JWT",
+      "NIST",
+      "PostgreSQL",
+      "SQL",
+      "Salesforce",
+      "Salesforce Trailhead",
+      "Security"
+    ],
+    "difficulty": "Advanced",
+    "sourceFile": "23-06-2026.md",
+    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/23-06-2026.md",
+    "wordCount": 1051
+  },
+  {
+    "id": "day-051",
+    "date": "2026-06-24",
+    "title": "MedVault — Windows DPAPI, Secure Key Store & Linux Fallback with AES-GCM",
+    "summary": "Day 3 on MedVault. Yesterday mapped the crypto architecture on paper.",
+    "tags": [
+      "AES-256-GCM",
+      "Argon2id",
+      "Authentication",
+      "Cryptography",
+      "Encryption",
+      "Linux",
+      "Python",
+      "Salesforce",
+      "Salesforce Trailhead",
+      "Security"
+    ],
+    "difficulty": "Advanced",
+    "sourceFile": "24-06-2026.md",
+    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/24-06-2026.md",
+    "wordCount": 1066
   }
 ]

@@ -1,20 +1,21 @@
 {
-  "id": "day-048",
-  "date": "2026-06-21",
-  "title": "PassGuard — Browser Extension UI & Architecture",
-  "summary": "Building PassGuard, a browser extension for password management and security.",
+  "id": "day-051",
+  "date": "2026-06-24",
+  "title": "MedVault — Windows DPAPI, Secure Key Store & Linux Fallback with AES-GCM",
+  "summary": "Day 3 on MedVault. Yesterday mapped the crypto architecture on paper.",
   "tags": [
+    "AES-256-GCM",
     "Argon2id",
     "Authentication",
+    "Cryptography",
     "Encryption",
-    "JavaScript",
-    "Password Manager",
-    "React",
+    "Linux",
+    "Python",
     "Salesforce",
     "Salesforce Trailhead",
     "Security"
   ],
   "difficulty": "Advanced",
-  "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/21-06-2026.md",
-  "generatedAt": "2026-06-21T18:37:49.619Z"
+  "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/24-06-2026.md",
+  "generatedAt": "2026-07-04T20:01:08.791Z"
 }

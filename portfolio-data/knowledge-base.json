@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-21T18:37:49.621Z",
-  "totalEntries": 48,
+  "generatedAt": "2026-07-04T20:01:08.792Z",
+  "totalEntries": 51,
   "entries": [
     {
       "id": "day-001",
@@ -1928,6 +1928,122 @@
       "difficulty": "Advanced",
       "links": [],
       "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/21-06-2026.md"
+    },
+    {
+      "id": "day-049",
+      "date": "2026-06-22",
+      "title": "MedVault — Allergy Safety Engine, 7-Section Health Record Page & UI Polish",
+      "summary": "Building MedVault, a decentralised, end-to-end encrypted healthcare data platform.",
+      "concepts": [
+        "Fixed 3 accumulated UI bugs: patient name JOIN alias, session key mismatch on notes, `view_patient` URL",
+        "Built `check_allergy_conflicts()` with direct-match and cross-reactivity lookup table",
+        "Implemented 409 allergy conflict response with frontend inline warning panel + override checkbox",
+        "Added 32 new tests (57 total passing) covering normalization, unit conflict logic, integration flow",
+        "Built 7-section EMR health record page with collapsible sections",
+        "Implemented profile-completeness ring widget using `conic-gradient`"
+      ],
+      "technologies": [
+        "HTML",
+        "JavaScript",
+        "Python",
+        "SQL",
+        "Salesforce Trailhead"
+      ],
+      "topics": [
+        "MedVault — Allergy Safety Engine, 7-Section Health Record Page & UI Polish"
+      ],
+      "tags": [
+        "Authentication",
+        "Backend",
+        "Encryption",
+        "Frontend",
+        "HTML",
+        "JavaScript",
+        "Python",
+        "SQL",
+        "Salesforce",
+        "Salesforce Trailhead"
+      ],
+      "difficulty": "Intermediate",
+      "links": [],
+      "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/22-06-2026.md"
+    },
+    {
+      "id": "day-050",
+      "date": "2026-06-23",
+      "title": "MedVault — System Architecture Deep-Dive: Decentralised Data Flow & Access Control Model",
+      "summary": "Day 2 on MedVault. After shipping three features yesterday (allergy safety,",
+      "concepts": [
+        "Mapped the full decentralised ownership model: what the server stores vs. what only the patient holds",
+        "Traced the hybrid RSA+AES key wrapping flow step-by-step, including the doctor access grant re-wrap",
+        "Designed the access control state machine: PENDING → APPROVED/DENIED → EXPIRED",
+        "Identified the critical insight: expiry must be enforced server-side, not just in the UI",
+        "Reviewed the current database schema and noted the columns added by yesterday's migrations"
+      ],
+      "technologies": [
+        "AES-256-GCM",
+        "JWT",
+        "NIST",
+        "PostgreSQL",
+        "SQL",
+        "Salesforce Trailhead"
+      ],
+      "topics": [
+        "MedVault — System Architecture Deep-Dive: Decentralised Data Flow & Access Control Model"
+      ],
+      "tags": [
+        "AES-256-GCM",
+        "Cryptography",
+        "Encryption",
+        "Frontend",
+        "JWT",
+        "NIST",
+        "PostgreSQL",
+        "SQL",
+        "Salesforce",
+        "Salesforce Trailhead",
+        "Security"
+      ],
+      "difficulty": "Advanced",
+      "links": [],
+      "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/23-06-2026.md"
+    },
+    {
+      "id": "day-051",
+      "date": "2026-06-24",
+      "title": "MedVault — Windows DPAPI, Secure Key Store & Linux Fallback with AES-GCM",
+      "summary": "Day 3 on MedVault. Yesterday mapped the crypto architecture on paper.",
+      "concepts": [
+        "Understood Windows DPAPI internals: user-scoped AES-256-CBC with HMAC, `CryptProtectData` / `CryptUnprotectData`",
+        "Implemented Linux/macOS fallback: Argon2id machine-key derivation + AES-256-GCM with `salt|nonce|ciphertext` file format",
+        "Designed unified `secure_key_store.py` dispatch interface — caller code is OS-agnostic",
+        "Analysed the tradeoff table: DPAPI vs. machine key vs. passphrase vs. hardware key"
+      ],
+      "technologies": [
+        "AES-256-GCM",
+        "Argon2id",
+        "Linux",
+        "Python",
+        "Salesforce Trailhead"
+      ],
+      "topics": [
+        "MedVault — Windows DPAPI, Secure Key Store & Linux Fallback with AES-GCM"
+      ],
+      "tags": [
+        "AES-256-GCM",
+        "Argon2id",
+        "Authentication",
+        "Cryptography",
+        "Encryption",
+        "Linux",
+        "Python",
+        "Salesforce",
+        "Salesforce Trailhead",
+        "Security"
+      ],
+      "difficulty": "Advanced",
+      "links": [],
+      "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/24-06-2026.md"
     }
   ]
 }
