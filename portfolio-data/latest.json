@@ -1,19 +1,23 @@
 {
-  "id": "day-057",
-  "date": "2026-06-30",
-  "title": "MedVault — Server-Side Access Expiry Enforcement & IDOR Prevention",
-  "summary": "Day 9 on MedVault. Today closed the most critical remaining security",
+  "id": "day-058",
+  "date": "2026-07-01",
+  "title": "MedVault — RSA Key Size Upgrade, TLS Warnings & Security Hardening Wrap-Up",
+  "summary": "Day 10 on MedVault. Final security hardening day. Upgraded the RSA key",
   "tags": [
     "Authentication",
+    "Cryptography",
+    "Encryption",
+    "HTTP/HTTPS",
+    "Hashing",
     "JWT",
-    "PostgreSQL",
+    "NIST",
+    "Performance",
     "Python",
-    "SQL",
     "Salesforce",
     "Salesforce Trailhead",
     "Security"
   ],
-  "difficulty": "Intermediate",
-  "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/30-06-2026.md",
-  "generatedAt": "2026-07-04T20:09:04.456Z"
+  "difficulty": "Advanced",
+  "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/July-07/01-07-2026.md",
+  "generatedAt": "2026-07-04T20:10:03.745Z"
 }

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-04T20:09:04.458Z",
-  "totalEntries": 57,
+  "generatedAt": "2026-07-04T20:10:03.747Z",
+  "totalEntries": 58,
   "entries": [
     {
       "id": "day-001",
@@ -2269,6 +2269,45 @@
       "difficulty": "Intermediate",
       "links": [],
       "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/30-06-2026.md"
+    },
+    {
+      "id": "day-058",
+      "date": "2026-07-01",
+      "title": "MedVault — RSA Key Size Upgrade, TLS Warnings & Security Hardening Wrap-Up",
+      "summary": "Day 10 on MedVault. Final security hardening day. Upgraded the RSA key",
+      "concepts": [
+        "Upgraded RSA key size to 4096-bit — understood the key-gen vs encrypt/decrypt performance trade-off",
+        "Added TLS startup warning with `BEHIND_TLS_PROXY` env var and conditional HSTS header",
+        "Added startup guard that refuses to start in production if secret files exist on disk",
+        "Compiled the full 25-issue security remediation retrospective — identified \"in-memory state\" and \"missing authz\" as the two dominant vulnerability patterns"
+      ],
+      "technologies": [
+        "HTTP/HTTPS",
+        "JWT",
+        "NIST",
+        "Python",
+        "Salesforce Trailhead"
+      ],
+      "topics": [
+        "MedVault — RSA Key Size Upgrade, TLS Warnings & Security Hardening Wrap-Up"
+      ],
+      "tags": [
+        "Authentication",
+        "Cryptography",
+        "Encryption",
+        "HTTP/HTTPS",
+        "Hashing",
+        "JWT",
+        "NIST",
+        "Performance",
+        "Python",
+        "Salesforce",
+        "Salesforce Trailhead",
+        "Security"
+      ],
+      "difficulty": "Advanced",
+      "links": [],
+      "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/July-07/01-07-2026.md"
     }
   ]
 }

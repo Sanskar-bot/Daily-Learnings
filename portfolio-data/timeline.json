@@ -1154,5 +1154,29 @@
     "sourceFile": "30-06-2026.md",
     "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/30-06-2026.md",
     "wordCount": 1119
+  },
+  {
+    "id": "day-058",
+    "date": "2026-07-01",
+    "title": "MedVault — RSA Key Size Upgrade, TLS Warnings & Security Hardening Wrap-Up",
+    "summary": "Day 10 on MedVault. Final security hardening day. Upgraded the RSA key",
+    "tags": [
+      "Authentication",
+      "Cryptography",
+      "Encryption",
+      "HTTP/HTTPS",
+      "Hashing",
+      "JWT",
+      "NIST",
+      "Performance",
+      "Python",
+      "Salesforce",
+      "Salesforce Trailhead",
+      "Security"
+    ],
+    "difficulty": "Advanced",
+    "sourceFile": "01-07-2026.md",
+    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/July-07/01-07-2026.md",
+    "wordCount": 1127
   }
 ]
