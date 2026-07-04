@@ -97,6 +97,40 @@
     "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/13-06-2026.md"
   },
   {
+    "id": "day-061",
+    "date": "2026-07-04",
+    "title": "MedVault — Project Retrospective, Metrics & What's Next",
+    "summary": "Day 13 on MedVault — and the last day of this arc. The core platform",
+    "tags": [
+      "AES-256-GCM",
+      "Authentication",
+      "Cloud",
+      "Cryptography",
+      "Docker",
+      "Encryption",
+      "JWT",
+      "Linux",
+      "NIST",
+      "Performance",
+      "React",
+      "Salesforce",
+      "Salesforce Trailhead",
+      "Security",
+      "Testing"
+    ],
+    "difficulty": "Advanced",
+    "technologies": [
+      "AES-256-GCM",
+      "Docker",
+      "JWT",
+      "Linux",
+      "NIST",
+      "React",
+      "Salesforce Trailhead"
+    ],
+    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/July-07/04-07-2026.md"
+  },
+  {
     "id": "day-042",
     "date": "2026-06-15",
     "title": "PassGuard — Day 15: Breach Detection via HaveIBeenPwned k-Anonymity API",
@@ -241,38 +275,5 @@
       "TypeScript"
     ],
     "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/12-06-2026.md"
-  },
-  {
-    "id": "day-055",
-    "date": "2026-06-28",
-    "title": "MedVault — Crypto Compatibility Fix, EMR Schema Migrations, Active Access Guards & Vitals History",
-    "summary": "Day 7 on MedVault — the heaviest commit day so far with four separate",
-    "tags": [
-      "AES-256-GCM",
-      "Authentication",
-      "Backend",
-      "Cryptography",
-      "Encryption",
-      "Frontend",
-      "JSON",
-      "JavaScript",
-      "PostgreSQL",
-      "Python",
-      "SQL",
-      "Salesforce",
-      "Salesforce Trailhead",
-      "Security"
-    ],
-    "difficulty": "Advanced",
-    "technologies": [
-      "AES-256-GCM",
-      "JSON",
-      "JavaScript",
-      "PostgreSQL",
-      "Python",
-      "SQL",
-      "Salesforce Trailhead"
-    ],
-    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/28-06-2026.md"
   }
 ]
