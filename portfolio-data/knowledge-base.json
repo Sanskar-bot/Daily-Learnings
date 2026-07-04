@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-04T20:10:03.747Z",
-  "totalEntries": 58,
+  "generatedAt": "2026-07-04T20:11:00.365Z",
+  "totalEntries": 59,
   "entries": [
     {
       "id": "day-001",
@@ -2308,6 +2308,41 @@
       "difficulty": "Advanced",
       "links": [],
       "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/July-07/01-07-2026.md"
+    },
+    {
+      "id": "day-059",
+      "date": "2026-07-02",
+      "title": "MedVault — PostgreSQL Query Optimisation, Indexing Strategy & Connection Pooling",
+      "summary": "Day 11 on MedVault. Security hardening is complete. Shifted focus to",
+      "concepts": [
+        "Used `EXPLAIN ANALYZE` to identify a Seq Scan causing 240ms latency on the access-check query",
+        "Created composite index `(doctor_id, patient_id, status)` — reduced to 0.3ms (800× faster)",
+        "Created partial index `WHERE expires_at > NOW()` on `wrapped_keys` — smaller, faster for active-key queries",
+        "Added unique partial index to prevent duplicate simultaneous access grants",
+        "Implemented `ThreadedConnectionPool` with a `PooledConnection` context manager",
+        "Added request-scoped profile caching using Flask `g`"
+      ],
+      "technologies": [
+        "PostgreSQL",
+        "Python",
+        "SQL",
+        "Salesforce Trailhead"
+      ],
+      "topics": [
+        "MedVault — PostgreSQL Query Optimisation, Indexing Strategy & Connection Pooling"
+      ],
+      "tags": [
+        "Performance",
+        "PostgreSQL",
+        "Python",
+        "SQL",
+        "Salesforce",
+        "Salesforce Trailhead",
+        "Security"
+      ],
+      "difficulty": "Intermediate",
+      "links": [],
+      "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/July-07/02-07-2026.md"
     }
   ]
 }
