@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-04T20:01:08.792Z",
-  "totalEntries": 51,
+  "generatedAt": "2026-07-04T20:02:09.482Z",
+  "totalEntries": 52,
   "entries": [
     {
       "id": "day-001",
@@ -2044,6 +2044,42 @@
       "difficulty": "Advanced",
       "links": [],
       "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/24-06-2026.md"
+    },
+    {
+      "id": "day-052",
+      "date": "2026-06-25",
+      "title": "MedVault — JWT Authentication, Token Lifecycle & Persistent Blocklist",
+      "summary": "Day 4 on MedVault. With the crypto layer understood, today focused on",
+      "concepts": [
+        "Traced the full JWT lifecycle: issue → validate → revoke, with `jti` as the revocation handle",
+        "Identified the JWT secret == API key vulnerability and understood the fix (dedicated `jwt_secret.txt`)",
+        "Implemented `_require_jwt(roles=[...])` decorator — identity sourced from token, not request body",
+        "Understood the in-memory blocklist restart vulnerability and implemented JSON-backed persistence",
+        "Applied the same persistence pattern to the OTP store"
+      ],
+      "technologies": [
+        "JSON",
+        "JWT",
+        "Python",
+        "Redis",
+        "Salesforce Trailhead"
+      ],
+      "topics": [
+        "MedVault — JWT Authentication, Token Lifecycle & Persistent Blocklist"
+      ],
+      "tags": [
+        "Authentication",
+        "JSON",
+        "JWT",
+        "Python",
+        "Redis",
+        "Salesforce",
+        "Salesforce Trailhead",
+        "Security"
+      ],
+      "difficulty": "Intermediate",
+      "links": [],
+      "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/25-06-2026.md"
     }
   ]
 }

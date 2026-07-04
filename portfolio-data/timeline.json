@@ -1025,5 +1025,25 @@
     "sourceFile": "24-06-2026.md",
     "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/24-06-2026.md",
     "wordCount": 1066
+  },
+  {
+    "id": "day-052",
+    "date": "2026-06-25",
+    "title": "MedVault — JWT Authentication, Token Lifecycle & Persistent Blocklist",
+    "summary": "Day 4 on MedVault. With the crypto layer understood, today focused on",
+    "tags": [
+      "Authentication",
+      "JSON",
+      "JWT",
+      "Python",
+      "Redis",
+      "Salesforce",
+      "Salesforce Trailhead",
+      "Security"
+    ],
+    "difficulty": "Intermediate",
+    "sourceFile": "25-06-2026.md",
+    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/25-06-2026.md",
+    "wordCount": 997
   }
 ]
