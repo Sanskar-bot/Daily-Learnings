@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-04T20:03:20.841Z",
-  "totalEntries": 53,
+  "generatedAt": "2026-07-04T20:05:53.226Z",
+  "totalEntries": 54,
   "entries": [
     {
       "id": "day-001",
@@ -2119,6 +2119,41 @@
       "difficulty": "Advanced",
       "links": [],
       "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/26-06-2026.md"
+    },
+    {
+      "id": "day-054",
+      "date": "2026-06-27",
+      "title": "MedVault — Unifying Auth, CORS Hardening & Patient Identity Resolution",
+      "summary": "Day 6 on MedVault. Cross-portal testing revealed three independent bugs",
+      "concepts": [
+        "Identified and fixed 3 simultaneous bugs found via cross-portal integration testing",
+        "Unified password hashing: all portals now use `hash_password()` / `verify_password()` from `auth_utils`",
+        "Replaced `Access-Control-Allow-Origin: *` with an env-var allowlist + `Vary: Origin`",
+        "Built `_resolve_patient_uuid()` / `_resolve_doctor_uuid()` boundary resolvers",
+        "Applied `_resolve_pid()` at all 6 patient-scoped EMR endpoints"
+      ],
+      "technologies": [
+        "Python",
+        "Redis",
+        "Salesforce Trailhead"
+      ],
+      "topics": [
+        "MedVault — Unifying Auth, CORS Hardening & Patient Identity Resolution"
+      ],
+      "tags": [
+        "Authentication",
+        "Backend",
+        "Hashing",
+        "Python",
+        "Redis",
+        "Salesforce",
+        "Salesforce Trailhead",
+        "Security",
+        "Testing"
+      ],
+      "difficulty": "Advanced",
+      "links": [],
+      "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/27-06-2026.md"
     }
   ]
 }
