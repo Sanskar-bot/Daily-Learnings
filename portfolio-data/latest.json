@@ -1,10 +1,14 @@
 {
-  "id": "day-059",
-  "date": "2026-07-02",
-  "title": "MedVault — PostgreSQL Query Optimisation, Indexing Strategy & Connection Pooling",
-  "summary": "Day 11 on MedVault. Security hardening is complete. Shifted focus to",
+  "id": "day-060",
+  "date": "2026-07-03",
+  "title": "MedVault — Doctor Portal: Patient Recovery Flow & EMR Metadata Persistence",
+  "summary": "Day 12 on MedVault. Two interconnected features: a patient key-recovery",
   "tags": [
-    "Performance",
+    "AES-256-GCM",
+    "Argon2id",
+    "BIP-39",
+    "Encryption",
+    "Networking",
     "PostgreSQL",
     "Python",
     "SQL",
@@ -12,7 +16,7 @@
     "Salesforce Trailhead",
     "Security"
   ],
-  "difficulty": "Intermediate",
-  "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/July-07/02-07-2026.md",
-  "generatedAt": "2026-07-04T20:11:00.363Z"
+  "difficulty": "Advanced",
+  "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/July-07/03-07-2026.md",
+  "generatedAt": "2026-07-04T20:12:04.499Z"
 }

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-04T20:11:00.365Z",
-  "totalEntries": 59,
+  "generatedAt": "2026-07-04T20:12:04.500Z",
+  "totalEntries": 60,
   "entries": [
     {
       "id": "day-001",
@@ -2343,6 +2343,47 @@
       "difficulty": "Intermediate",
       "links": [],
       "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/July-07/02-07-2026.md"
+    },
+    {
+      "id": "day-060",
+      "date": "2026-07-03",
+      "title": "MedVault — Doctor Portal: Patient Recovery Flow & EMR Metadata Persistence",
+      "summary": "Day 12 on MedVault. Two interconnected features: a patient key-recovery",
+      "concepts": [
+        "Designed the zero-knowledge recovery flow: `recovery_secret` (shown once) → `encrypted_priv` + `recovery_hash` on server",
+        "Implemented `generate_recovery_package()` using AES-GCM + Argon2id",
+        "Built the recovery UI: disclosure page with copy/download, checkbox gate, and recovery-key entry form",
+        "Moved `completeness_pct` from computed-on-read to persisted-on-write — enables DB-level sorting",
+        "Unified patient and doctor appointment views into a single `appointments` table"
+      ],
+      "technologies": [
+        "AES-256-GCM",
+        "Argon2id",
+        "BIP-39",
+        "PostgreSQL",
+        "Python",
+        "SQL",
+        "Salesforce Trailhead"
+      ],
+      "topics": [
+        "MedVault — Doctor Portal: Patient Recovery Flow & EMR Metadata Persistence"
+      ],
+      "tags": [
+        "AES-256-GCM",
+        "Argon2id",
+        "BIP-39",
+        "Encryption",
+        "Networking",
+        "PostgreSQL",
+        "Python",
+        "SQL",
+        "Salesforce",
+        "Salesforce Trailhead",
+        "Security"
+      ],
+      "difficulty": "Advanced",
+      "links": [],
+      "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/July-07/03-07-2026.md"
     }
   ]
 }
