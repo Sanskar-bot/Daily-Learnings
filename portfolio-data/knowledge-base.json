@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-04T20:02:09.482Z",
-  "totalEntries": 52,
+  "generatedAt": "2026-07-04T20:03:20.841Z",
+  "totalEntries": 53,
   "entries": [
     {
       "id": "day-001",
@@ -2080,6 +2080,45 @@
       "difficulty": "Intermediate",
       "links": [],
       "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/25-06-2026.md"
+    },
+    {
+      "id": "day-053",
+      "date": "2026-06-26",
+      "title": "MedVault — Doctor Notes Bug Fix, Tab Rendering Overhaul & Comprehensive UI/UX Improvements",
+      "summary": "Day 5 on MedVault. A dense debugging + feature day. Doctor clinical notes",
+      "concepts": [
+        "Debugged `data.get()` on a list — silent `AttributeError` causing notes to always return `[]`",
+        "Fixed `note_id` vs `id` field mismatch with a `normalise_note()` ingest function",
+        "Fixed `querySelectorAll` scope bug in `initTabs` — panels are siblings not children",
+        "Built `/api/doctor/active_patients` endpoint with SQL JOIN on `wrapped_keys` expiry",
+        "Added Active/Expired badge renderer with relative time and urgency colouring",
+        "Fixed Active Doctor Access stat to count only non-expired approvals",
+        "Added backend expiry guard + audit log on every successful note creation"
+      ],
+      "technologies": [
+        "JavaScript",
+        "PostgreSQL",
+        "Python",
+        "SQL",
+        "Salesforce Trailhead"
+      ],
+      "topics": [
+        "MedVault — Doctor Notes Bug Fix, Tab Rendering Overhaul & Comprehensive UI/UX Improvements"
+      ],
+      "tags": [
+        "Backend",
+        "Frontend",
+        "JavaScript",
+        "PostgreSQL",
+        "Python",
+        "SQL",
+        "Salesforce",
+        "Salesforce Trailhead",
+        "Security"
+      ],
+      "difficulty": "Advanced",
+      "links": [],
+      "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/26-06-2026.md"
     }
   ]
 }

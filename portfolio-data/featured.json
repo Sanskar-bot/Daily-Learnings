@@ -243,21 +243,29 @@
     "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/12-06-2026.md"
   },
   {
-    "id": "day-043",
-    "date": "2026-06-16",
-    "title": "PassGuard — Day 16: Web Worker Offloading & Performance Profiling",
-    "summary": "Day 16 of the PassGuard build. After shipping the HIBP breach check yesterday,",
+    "id": "day-053",
+    "date": "2026-06-26",
+    "title": "MedVault — Doctor Notes Bug Fix, Tab Rendering Overhaul & Comprehensive UI/UX Improvements",
+    "summary": "Day 5 on MedVault. A dense debugging + feature day. Doctor clinical notes",
     "tags": [
+      "Backend",
+      "Frontend",
       "JavaScript",
-      "Performance",
+      "PostgreSQL",
+      "Python",
+      "SQL",
       "Salesforce",
-      "Salesforce Trailhead"
+      "Salesforce Trailhead",
+      "Security"
     ],
     "difficulty": "Advanced",
     "technologies": [
       "JavaScript",
+      "PostgreSQL",
+      "Python",
+      "SQL",
       "Salesforce Trailhead"
     ],
-    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/16-06-2026.md"
+    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/26-06-2026.md"
   }
 ]
