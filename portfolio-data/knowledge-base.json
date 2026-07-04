@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-04T20:07:03.317Z",
-  "totalEntries": 55,
+  "generatedAt": "2026-07-04T20:08:01.289Z",
+  "totalEntries": 56,
   "entries": [
     {
       "id": "day-001",
@@ -2199,6 +2199,40 @@
       "difficulty": "Advanced",
       "links": [],
       "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/28-06-2026.md"
+    },
+    {
+      "id": "day-056",
+      "date": "2026-06-29",
+      "title": "MedVault — End-to-End Testing, Rate Limiting & File Upload Validation",
+      "summary": "Day 8 on MedVault. After seven days of rapid feature development,",
+      "concepts": [
+        "Wrote an end-to-end integration test covering registration → access request → approval → encrypted fetch → local decryption",
+        "Implemented file-based persistent rate limiter: per-IP JSON with sliding window, hourly cleanup",
+        "Added magic-byte file upload validation for JPEG, PNG, GIF, WebP with a `MAX_CONTENT_LENGTH` cap",
+        "Understood `file_storage.stream.seek(0, 2)` pattern for getting file size without loading into memory"
+      ],
+      "technologies": [
+        "Linux",
+        "Python",
+        "Salesforce Trailhead"
+      ],
+      "topics": [
+        "MedVault — End-to-End Testing, Rate Limiting & File Upload Validation"
+      ],
+      "tags": [
+        "Authentication",
+        "Backend",
+        "Encryption",
+        "Linux",
+        "Python",
+        "Salesforce",
+        "Salesforce Trailhead",
+        "Security",
+        "Testing"
+      ],
+      "difficulty": "Advanced",
+      "links": [],
+      "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/29-06-2026.md"
     }
   ]
 }

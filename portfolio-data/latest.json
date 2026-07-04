@@ -1,25 +1,20 @@
 {
-  "id": "day-055",
-  "date": "2026-06-28",
-  "title": "MedVault — Crypto Compatibility Fix, EMR Schema Migrations, Active Access Guards & Vitals History",
-  "summary": "Day 7 on MedVault — the heaviest commit day so far with four separate",
+  "id": "day-056",
+  "date": "2026-06-29",
+  "title": "MedVault — End-to-End Testing, Rate Limiting & File Upload Validation",
+  "summary": "Day 8 on MedVault. After seven days of rapid feature development,",
   "tags": [
-    "AES-256-GCM",
     "Authentication",
     "Backend",
-    "Cryptography",
     "Encryption",
-    "Frontend",
-    "JSON",
-    "JavaScript",
-    "PostgreSQL",
+    "Linux",
     "Python",
-    "SQL",
     "Salesforce",
     "Salesforce Trailhead",
-    "Security"
+    "Security",
+    "Testing"
   ],
   "difficulty": "Advanced",
-  "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/28-06-2026.md",
-  "generatedAt": "2026-07-04T20:07:03.315Z"
+  "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/29-06-2026.md",
+  "generatedAt": "2026-07-04T20:08:01.287Z"
 }

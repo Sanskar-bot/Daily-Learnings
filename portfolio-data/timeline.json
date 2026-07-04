@@ -1113,5 +1113,26 @@
     "sourceFile": "28-06-2026.md",
     "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/28-06-2026.md",
     "wordCount": 1225
+  },
+  {
+    "id": "day-056",
+    "date": "2026-06-29",
+    "title": "MedVault — End-to-End Testing, Rate Limiting & File Upload Validation",
+    "summary": "Day 8 on MedVault. After seven days of rapid feature development,",
+    "tags": [
+      "Authentication",
+      "Backend",
+      "Encryption",
+      "Linux",
+      "Python",
+      "Salesforce",
+      "Salesforce Trailhead",
+      "Security",
+      "Testing"
+    ],
+    "difficulty": "Advanced",
+    "sourceFile": "29-06-2026.md",
+    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/29-06-2026.md",
+    "wordCount": 1049
   }
 ]
