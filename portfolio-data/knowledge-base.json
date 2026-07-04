@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-04T20:05:53.226Z",
-  "totalEntries": 54,
+  "generatedAt": "2026-07-04T20:07:03.317Z",
+  "totalEntries": 55,
   "entries": [
     {
       "id": "day-001",
@@ -2154,6 +2154,51 @@
       "difficulty": "Advanced",
       "links": [],
       "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/27-06-2026.md"
+    },
+    {
+      "id": "day-055",
+      "date": "2026-06-28",
+      "title": "MedVault — Crypto Compatibility Fix, EMR Schema Migrations, Active Access Guards & Vitals History",
+      "summary": "Day 7 on MedVault — the heaviest commit day so far with four separate",
+      "concepts": [
+        "Fixed AES mode mismatch (CBC vs GCM) with a version-byte envelope + transparent legacy upgrade path",
+        "Removed duplicate Flask route registration causing non-deterministic handler dispatch",
+        "Applied 3 DB schema migrations: `last_updated` trigger, `record_version` optimistic locking, `vitals_history` JSONB",
+        "Enforced active doctor access guard in all 3 landing proxy routes",
+        "Built vitals history append endpoint using PostgreSQL JSONB `||` operator",
+        "Rendered vitals as a reverse-chronological timeline in the EMR UI"
+      ],
+      "technologies": [
+        "AES-256-GCM",
+        "JSON",
+        "JavaScript",
+        "PostgreSQL",
+        "Python",
+        "SQL",
+        "Salesforce Trailhead"
+      ],
+      "topics": [
+        "MedVault — Crypto Compatibility Fix, EMR Schema Migrations, Active Access Guards & Vitals History"
+      ],
+      "tags": [
+        "AES-256-GCM",
+        "Authentication",
+        "Backend",
+        "Cryptography",
+        "Encryption",
+        "Frontend",
+        "JSON",
+        "JavaScript",
+        "PostgreSQL",
+        "Python",
+        "SQL",
+        "Salesforce",
+        "Salesforce Trailhead",
+        "Security"
+      ],
+      "difficulty": "Advanced",
+      "links": [],
+      "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/28-06-2026.md"
     }
   ]
 }

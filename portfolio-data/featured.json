@@ -243,13 +243,18 @@
     "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/12-06-2026.md"
   },
   {
-    "id": "day-053",
-    "date": "2026-06-26",
-    "title": "MedVault — Doctor Notes Bug Fix, Tab Rendering Overhaul & Comprehensive UI/UX Improvements",
-    "summary": "Day 5 on MedVault. A dense debugging + feature day. Doctor clinical notes",
+    "id": "day-055",
+    "date": "2026-06-28",
+    "title": "MedVault — Crypto Compatibility Fix, EMR Schema Migrations, Active Access Guards & Vitals History",
+    "summary": "Day 7 on MedVault — the heaviest commit day so far with four separate",
     "tags": [
+      "AES-256-GCM",
+      "Authentication",
       "Backend",
+      "Cryptography",
+      "Encryption",
       "Frontend",
+      "JSON",
       "JavaScript",
       "PostgreSQL",
       "Python",
@@ -260,12 +265,14 @@
     ],
     "difficulty": "Advanced",
     "technologies": [
+      "AES-256-GCM",
+      "JSON",
       "JavaScript",
       "PostgreSQL",
       "Python",
       "SQL",
       "Salesforce Trailhead"
     ],
-    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/26-06-2026.md"
+    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/28-06-2026.md"
   }
 ]
