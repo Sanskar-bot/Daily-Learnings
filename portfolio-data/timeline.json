@@ -1134,5 +1134,25 @@
     "sourceFile": "29-06-2026.md",
     "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/29-06-2026.md",
     "wordCount": 1049
+  },
+  {
+    "id": "day-057",
+    "date": "2026-06-30",
+    "title": "MedVault — Server-Side Access Expiry Enforcement & IDOR Prevention",
+    "summary": "Day 9 on MedVault. Today closed the most critical remaining security",
+    "tags": [
+      "Authentication",
+      "JWT",
+      "PostgreSQL",
+      "Python",
+      "SQL",
+      "Salesforce",
+      "Salesforce Trailhead",
+      "Security"
+    ],
+    "difficulty": "Intermediate",
+    "sourceFile": "30-06-2026.md",
+    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/30-06-2026.md",
+    "wordCount": 1119
   }
 ]

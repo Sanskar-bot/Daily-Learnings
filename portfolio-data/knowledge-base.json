@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-04T20:08:01.289Z",
-  "totalEntries": 56,
+  "generatedAt": "2026-07-04T20:09:04.458Z",
+  "totalEntries": 57,
   "entries": [
     {
       "id": "day-001",
@@ -2233,6 +2233,42 @@
       "difficulty": "Advanced",
       "links": [],
       "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/29-06-2026.md"
+    },
+    {
+      "id": "day-057",
+      "date": "2026-06-30",
+      "title": "MedVault — Server-Side Access Expiry Enforcement & IDOR Prevention",
+      "summary": "Day 9 on MedVault. Today closed the most critical remaining security",
+      "concepts": [
+        "Identified and classified the IDOR vulnerability across 6 EMR endpoints",
+        "Built `_caller_may_access_patient()` with role-split logic: patient self-only, doctor active-access-only",
+        "Understood why the JOIN on `wrapped_keys` is necessary in addition to `access_requests.status`",
+        "Fixed the wrapped-key selection to use `ORDER BY expires_at DESC LIMIT 1` (most recent active key)",
+        "Added `ALLOWED_STATUSES` whitelist to the status-update endpoint with a helpful error for `approved`"
+      ],
+      "technologies": [
+        "JWT",
+        "PostgreSQL",
+        "Python",
+        "SQL",
+        "Salesforce Trailhead"
+      ],
+      "topics": [
+        "MedVault — Server-Side Access Expiry Enforcement & IDOR Prevention"
+      ],
+      "tags": [
+        "Authentication",
+        "JWT",
+        "PostgreSQL",
+        "Python",
+        "SQL",
+        "Salesforce",
+        "Salesforce Trailhead",
+        "Security"
+      ],
+      "difficulty": "Intermediate",
+      "links": [],
+      "source": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/June-06/30-06-2026.md"
     }
   ]
 }
