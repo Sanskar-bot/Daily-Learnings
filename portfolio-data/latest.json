@@ -1,26 +1,15 @@
 {
-  "id": "day-061",
-  "date": "2026-07-04",
-  "title": "MedVault — Project Retrospective, Metrics & What's Next",
-  "summary": "Day 13 on MedVault — and the last day of this arc. The core platform",
+  "id": "day-072",
+  "date": "2026-10-28",
+  "title": "LeetCode — Monotonic Deque, Two Pointers & Progress Tracker Setup",
+  "summary": "Two more LeetCode problems today — Sliding Window Maximum",
   "tags": [
-    "AES-256-GCM",
     "Authentication",
-    "Cloud",
-    "Cryptography",
-    "Docker",
-    "Encryption",
-    "JWT",
-    "Linux",
-    "NIST",
-    "Performance",
-    "React",
+    "Python",
     "Salesforce",
-    "Salesforce Trailhead",
-    "Security",
-    "Testing"
+    "Salesforce Trailhead"
   ],
-  "difficulty": "Advanced",
-  "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/July-07/04-07-2026.md",
-  "generatedAt": "2026-07-04T20:13:15.072Z"
+  "difficulty": "Beginner",
+  "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/October-10/28-10-2026.md",
+  "generatedAt": "2026-10-28T20:56:36.046Z"
 }

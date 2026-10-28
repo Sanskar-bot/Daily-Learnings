@@ -1247,5 +1247,210 @@
     "sourceFile": "04-07-2026.md",
     "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/July-07/04-07-2026.md",
     "wordCount": 1499
+  },
+  {
+    "id": "day-062",
+    "date": "2026-07-05",
+    "title": "Portfolio & GitHub Profile — Project Showcase Update",
+    "summary": "Day after wrapping MedVault v1. Took a step back to update",
+    "tags": [
+      "AI/ML",
+      "Docker",
+      "Encryption",
+      "Frontend",
+      "PostgreSQL",
+      "Python",
+      "React",
+      "Salesforce",
+      "Salesforce Trailhead",
+      "Security"
+    ],
+    "difficulty": "Beginner",
+    "sourceFile": "05-07-2026.md",
+    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/July-07/05-07-2026.md",
+    "wordCount": 476
+  },
+  {
+    "id": "day-063",
+    "date": "2026-07-07",
+    "title": "MedVault v2 — Docker Deployment & Production Hardening",
+    "summary": "MedVault v1 was fully functional locally. Today: containerise",
+    "tags": [
+      "DevOps",
+      "Docker",
+      "Frontend",
+      "Python",
+      "Salesforce",
+      "Salesforce Trailhead",
+      "Security",
+      "Testing"
+    ],
+    "difficulty": "Beginner",
+    "sourceFile": "07-07-2026.md",
+    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/July-07/07-07-2026.md",
+    "wordCount": 624
+  },
+  {
+    "id": "day-064",
+    "date": "2026-07-08",
+    "title": "MedVault v2 — Multi-Step Verification, Railway Deployment & Auth Hardening",
+    "summary": "Day 2 of MedVault v2. Today: implement phone and email OTP",
+    "tags": [
+      "Authentication",
+      "Backend",
+      "DevOps",
+      "Docker",
+      "JWT",
+      "PostgreSQL",
+      "Python",
+      "Salesforce",
+      "Salesforce Trailhead",
+      "Security"
+    ],
+    "difficulty": "Intermediate",
+    "sourceFile": "08-07-2026.md",
+    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/July-07/08-07-2026.md",
+    "wordCount": 659
+  },
+  {
+    "id": "day-065",
+    "date": "2026-07-12",
+    "title": "MedVault v2 — OTP Debugging, Schema Migration & Registration Hardening",
+    "summary": "After Railway deployment, real-world usage revealed a cascade",
+    "tags": [
+      "Authentication",
+      "Backend",
+      "HTTP/HTTPS",
+      "PostgreSQL",
+      "Python",
+      "SQL",
+      "Salesforce",
+      "Salesforce Trailhead"
+    ],
+    "difficulty": "Beginner",
+    "sourceFile": "12-07-2026.md",
+    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/July-07/12-07-2026.md",
+    "wordCount": 635
+  },
+  {
+    "id": "day-066",
+    "date": "2026-07-13",
+    "title": "MedVault v2 — Registration UX, Onboarding Wizard & Multi-Worker Migration Lock",
+    "summary": "Day 3 of fixing the registration flow. Today: full UX",
+    "tags": [
+      "Authentication",
+      "Backend",
+      "DevOps",
+      "Encryption",
+      "Frontend",
+      "PostgreSQL",
+      "Python",
+      "SQL",
+      "Salesforce",
+      "Salesforce Trailhead",
+      "Security"
+    ],
+    "difficulty": "Intermediate",
+    "sourceFile": "13-07-2026.md",
+    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/July-07/13-07-2026.md",
+    "wordCount": 791
+  },
+  {
+    "id": "day-067",
+    "date": "2026-07-25",
+    "title": "MedVault v2 — Broken Access Control on File Upload & Patient Reports",
+    "summary": "Security audit of the v2 endpoints revealed that the approval-",
+    "tags": [
+      "Backend",
+      "HTTP/HTTPS",
+      "Python",
+      "Salesforce",
+      "Salesforce Trailhead",
+      "Security"
+    ],
+    "difficulty": "Beginner",
+    "sourceFile": "25-07-2026.md",
+    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/July-07/25-07-2026.md",
+    "wordCount": 727
+  },
+  {
+    "id": "day-068",
+    "date": "2026-09-25",
+    "title": "LeetCode SQL — Database Problems (NeetCode Submissions)",
+    "summary": "Working through SQL problems on LeetCode as part of the",
+    "tags": [
+      "MySQL",
+      "PostgreSQL",
+      "SQL",
+      "Salesforce",
+      "Salesforce Trailhead"
+    ],
+    "difficulty": "Intermediate",
+    "sourceFile": "25-09-2026.md",
+    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/September-09/25-09-2026.md",
+    "wordCount": 735
+  },
+  {
+    "id": "day-069",
+    "date": "2026-10-19",
+    "title": "LeetCode — Arrays, Hashing & Sliding Window (6 Problems)",
+    "summary": "Started a structured LeetCode grind. Solved 6 problems today",
+    "tags": [
+      "Hashing",
+      "Python",
+      "Salesforce",
+      "Salesforce Trailhead"
+    ],
+    "difficulty": "Beginner",
+    "sourceFile": "19-10-2026.md",
+    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/October-10/19-10-2026.md",
+    "wordCount": 838
+  },
+  {
+    "id": "day-070",
+    "date": "2026-10-22",
+    "title": "OOP in Python — Encapsulation, Properties & Banking System (Days 1-2)",
+    "summary": "Starting a structured OOP series. Day 1: built a Banking System",
+    "tags": [
+      "Python",
+      "Salesforce",
+      "Salesforce Trailhead",
+      "Security"
+    ],
+    "difficulty": "Beginner",
+    "sourceFile": "22-10-2026.md",
+    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/October-10/22-10-2026.md",
+    "wordCount": 749
+  },
+  {
+    "id": "day-071",
+    "date": "2026-10-25",
+    "title": "OOP in Python — Inheritance, `super().__init__()` & `isinstance()`",
+    "summary": "OOP Day 2. Built a Vehicle System to understand inheritance —",
+    "tags": [
+      "Python",
+      "Salesforce",
+      "Salesforce Trailhead"
+    ],
+    "difficulty": "Intermediate",
+    "sourceFile": "25-10-2026.md",
+    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/October-10/25-10-2026.md",
+    "wordCount": 647
+  },
+  {
+    "id": "day-072",
+    "date": "2026-10-28",
+    "title": "LeetCode — Monotonic Deque, Two Pointers & Progress Tracker Setup",
+    "summary": "Two more LeetCode problems today — Sliding Window Maximum",
+    "tags": [
+      "Authentication",
+      "Python",
+      "Salesforce",
+      "Salesforce Trailhead"
+    ],
+    "difficulty": "Beginner",
+    "sourceFile": "28-10-2026.md",
+    "githubUrl": "https://github.com/Sanskar-bot/Daily-Learnings/blob/main/2026/October-10/28-10-2026.md",
+    "wordCount": 897
   }
 ]
